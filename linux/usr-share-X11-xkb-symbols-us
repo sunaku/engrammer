@@ -1,0 +1,66 @@
+// ENGRAMMER BEGIN ////////////////////////////////////////
+//
+// Arno's Engram[mer] 2.0 - adapted from https://engram.dev
+//
+//	`~ 1! 2@ 3# 4$  5%  6^  7& 8* 9( 0) [{ ]}
+//	   bB yY oO uU  '"  ;:  lL dD wW vV zZ =+ \|
+//	   cC iI eE aA  ,<  .>  hH tT sS nN qQ
+//	   gG xX jJ kK  -_  /?  rR mM fF pP
+//
+partial alphanumeric_keys
+xkb_symbols "engrammer"
+{
+	include "us(basic)"
+
+	key <TLDE> { [        grave,  asciitilde ] }; // `~
+	key <AE01> { [            1,      exclam ] }; // 1!
+	key <AE02> { [            2,          at ] }; // 2@
+	key <AE03> { [            3,  numbersign ] }; // 3#
+	key <AE04> { [            4,      dollar ] }; // 4$
+	key <AE05> { [            5,     percent ] }; // 5%
+	key <AE06> { [            6,  asciicircum] }; // 6^
+	key <AE07> { [            7,   ampersand ] }; // 7&
+	key <AE08> { [            8,    asterisk ] }; // 8*
+	key <AE09> { [            9,   parenleft ] }; // 9(
+	key <AE10> { [            0,  parenright ] }; // 0)
+	key <AE11> { [  bracketleft,   braceleft ] }; // [{
+	key <AE12> { [ bracketright,  braceright ] }; // ]}
+
+	key <AD01> { [            b,           B ] }; // bB
+	key <AD02> { [            y,           Y ] }; // yY
+	key <AD03> { [            o,           O ] }; // oO
+	key <AD04> { [            u,           U ] }; // uU
+	key <AD05> { [   apostrophe,    quotedbl ] }; // '"
+	key <AD06> { [    semicolon,       colon ] }; // ;:
+	key <AD07> { [            l,           L ] }; // lL
+	key <AD08> { [            d,           D ] }; // dD
+	key <AD09> { [            w,           W ] }; // wW
+	key <AD10> { [            v,           V ] }; // vV
+	key <AD11> { [            z,           Z ] }; // zZ
+	key <AD12> { [        equal,        plus ] }; // =+
+	key <BKSL> { [    backslash,         bar ] }; // \|
+
+	key <AC01> { [            c,           C ] }; // cC
+	key <AC02> { [            i,           I ] }; // iI
+	key <AC03> { [            e,           E ] }; // eE
+	key <AC04> { [            a,           A ] }; // aA
+	key <AC05> { [        comma,        less ] }; // ,<
+	key <AC06> { [       period,     greater ] }; // .>
+	key <AC07> { [            h,           H ] }; // hH
+	key <AC08> { [            t,           T ] }; // tT
+	key <AC09> { [            s,           S ] }; // sS
+	key <AC10> { [            n,           N ] }; // nN
+	key <AC11> { [            q,           Q ] }; // qQ
+
+	key <AB01> { [            g,           G ] }; // gG
+	key <AB02> { [            x,           X ] }; // xX
+	key <AB03> { [            j,           J ] }; // jJ
+	key <AB04> { [            k,           K ] }; // kK
+	key <AB05> { [        minus,  underscore ] }; // -_
+	key <AB06> { [        slash,    question ] }; // /?
+	key <AB07> { [            r,           R ] }; // rR
+	key <AB08> { [            m,           M ] }; // mM
+	key <AB09> { [            f,           F ] }; // fF
+	key <AB10> { [            p,           P ] }; // pP
+};
+// ENGRAMMER END //////////////////////////////////////////
