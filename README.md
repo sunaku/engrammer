@@ -19,6 +19,11 @@ such as Control-Equals for the "zoom in" operation, now work properly.
 >        cC iI eE aA  ,<  .>  hH tT sS nN qQ
 >        gG xX jJ kK  -_  /?  rR mM fF pP
 
+For example, here is my split ortholinear keyboard using this layout:
+
+>![Photo](https://sunaku.github.io/ergohaven-remnant-keyboard-photograph.jpg)
+>![Layout](https://sunaku.github.io/ergohaven-remnant-keyboard-base-layer.png)
+
 [Arno's Engram]: https://engram.dev
 
 ## Linux setup
