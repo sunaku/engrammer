@@ -1,7 +1,9 @@
-# Engram[mer] - [Arno's Engram] layout for programmers
+[Arno's Engram]: https://engram.dev
 
-This is a programmer-friendly adaptation of [Arno's Engram] keyboard
-layout.  It helps maintain cross-proficiency with standard keyboards:
+# Engrammer - [Arno's Engram] layout for programmers
+
+This is a programmer-friendly variant of [Arno's Engram] 2.0 keyboard
+layout that helps maintain cross-proficiency with standard keyboards:
 
 * Shifted pairs are standard (e.g. quotes don't shift to parentheses).
 * Semicolon is placed relative to comma and period just like standard.
@@ -10,7 +12,9 @@ layout.  It helps maintain cross-proficiency with standard keyboards:
 In addition, application shortcuts that assume standard shifted pairs,
 such as Control-Equals for the "zoom in" operation, now work properly.
 
->*Legend: Gold is [Arno's Engram]; Blue is Engram-like; Pink is new.*
+To illustrate the differences between this layout, Engram, and QWERTY:
+
+>*Legend:* Gold is [Arno's Engram]; Blue is Engram-like; Pink is new.
 >![Rendering of this layout on a standard 60% keyboard.](layout.png)
 >![Rendering of this layout on an ortholinear keyboard.](ortho.png)
 >
@@ -23,8 +27,6 @@ For example, here is my split ortholinear keyboard using this layout:
 
 >![Photo](https://sunaku.github.io/ergohaven-remnant-keyboard-photograph.jpg)
 >![Layout](https://sunaku.github.io/ergohaven-remnant-keyboard-base-layer.png)
-
-[Arno's Engram]: https://engram.dev
 
 ## Linux setup
 
