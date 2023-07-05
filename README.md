@@ -23,10 +23,11 @@ To illustrate the differences between this layout, Engram, and QWERTY:
 >        cC iI eE aA  ,<  .>  hH tT sS nN qQ
 >        gG xX jJ kK  -_  /?  rR mM fF pP
 
-For example, here is my split ortholinear keyboard using this layout:
-
->![Photo](https://sunaku.github.io/ergohaven-remnant-keyboard-photograph.jpg)
->![Layout](https://sunaku.github.io/ergohaven-remnant-keyboard-base-layer.png)
+For example, here are my split ortholinear keyboards using this layout:
+>![Photo of MoErgo Glove80](https://sunaku.github.io/moergo-glove80-keyboard-photograph.jpg)
+>![Layout of MoErgo Glove80](https://sunaku.github.io/moergo-glove80-keyboard-base-layer.png)
+>![Photo of Ergohaven Remnant](https://sunaku.github.io/ergohaven-remnant-keyboard-photograph.jpg)
+>![Layout of Ergohaven Remnant](https://sunaku.github.io/ergohaven-remnant-keyboard-base-layer.png)
 
 ## Linux setup
 
