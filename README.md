@@ -24,8 +24,12 @@ To illustrate the differences between this layout, Engram, and QWERTY:
 >        gG xX jJ kK  -_  /?  rR mM fF pP
 
 For example, here are my split ortholinear keyboards using this layout:
+
+* This is [my Glove80](https://sunaku.github.io/moergo-glove80-keyboard.html) keyboard by MoErgo:
 >![Photo of MoErgo Glove80](https://sunaku.github.io/moergo-glove80-keyboard-photograph.jpg)
 >![Layout of MoErgo Glove80](https://sunaku.github.io/moergo-glove80-keyboard-base-layer.png)
+
+* This is [my Remnant](https://sunaku.github.io/ergohaven-remnant-keyboard.html) keyboard by Ergohaven:
 >![Photo of Ergohaven Remnant](https://sunaku.github.io/ergohaven-remnant-keyboard-photograph.jpg)
 >![Layout of Ergohaven Remnant](https://sunaku.github.io/ergohaven-remnant-keyboard-base-layer.png)
 
