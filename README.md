@@ -15,8 +15,8 @@ such as Control-Equals for the "zoom in" operation, now work properly.
 To illustrate the differences between this layout, Engram, and QWERTY:
 
 >*Legend:* Gold is [Arno's Engram]; Blue is Engram-like; Pink is new.
->![Rendering of this layout on a standard 60% keyboard.](layout.png)
->![Rendering of this layout on an ortholinear keyboard.](ortho.png)
+>![Rendering of this layout on a standard 60% keyboard.](https://raw.githubusercontent.com/sunaku/engrammer/main/layout.png)
+>![Rendering of this layout on an ortholinear keyboard.](https://raw.githubusercontent.com/sunaku/engrammer/main/ortho.png)
 >
 >     `~ 1! 2@ 3# 4$  5%  6^  7& 8* 9( 0) [{ ]}
 >        bB yY oO uU  '"  ;:  lL dD wW vV zZ =+ \|
@@ -26,12 +26,12 @@ To illustrate the differences between this layout, Engram, and QWERTY:
 For example, here are my split ortholinear keyboards using this layout:
 
 * This is [my Glove80](https://sunaku.github.io/moergo-glove80-keyboard.html) keyboard by MoErgo:
->![Photo of MoErgo Glove80](https://sunaku.github.io/moergo-glove80-keyboard-photograph.jpg)
->![Layout of MoErgo Glove80](https://sunaku.github.io/moergo-glove80-keyboard-base-layer.png)
+>![Photo of MoErgo Glove80](https://raw.githubusercontent.com/sunaku/sunaku.github.io/master/moergo-glove80-keyboard-photograph.jpg)
+>![Layout of MoErgo Glove80](https://raw.githubusercontent.com/sunaku/sunaku.github.io/master/moergo-glove80-keyboard-base-layer.png)
 
 * This is [my Remnant](https://sunaku.github.io/ergohaven-remnant-keyboard.html) keyboard by Ergohaven:
->![Photo of Ergohaven Remnant](https://sunaku.github.io/ergohaven-remnant-keyboard-photograph.jpg)
->![Layout of Ergohaven Remnant](https://sunaku.github.io/ergohaven-remnant-keyboard-base-layer.png)
+>![Photo of Ergohaven Remnant](https://raw.githubusercontent.com/sunaku/sunaku.github.io/master/ergohaven-remnant-keyboard-photograph.jpg)
+>![Layout of Ergohaven Remnant](https://raw.githubusercontent.com/sunaku/sunaku.github.io/master/ergohaven-remnant-keyboard-base-layer.png)
 
 ## Linux setup
 
