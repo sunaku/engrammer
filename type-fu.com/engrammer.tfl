@@ -1,0 +1,298 @@
+{
+  "id": "engrammer",
+  "name": "Engrammer",
+  "description": "Arno's Engram layout for programmers - https://github.com/sunaku/engrammer",
+  "version": 1,
+  "keys": {
+    "Digit1": {
+      "default"    : {
+        "base"     : "1",
+        "shift"    : "!"
+      }
+    },
+    "Digit2"       : {
+      "default"    : {
+        "base"     : "2",
+        "shift"    : "@"
+      }
+    },
+    "Digit3"       : {
+      "default"    : {
+        "base"     : "3",
+        "shift"    : "#"
+      }
+    },
+    "Digit4"       : {
+      "default"    : {
+        "base"     : "4",
+        "shift"    : "$"
+      }
+    },
+    "Digit5"       : {
+      "default"    : {
+        "base"     : "5",
+        "shift"    : "%"
+      }
+    },
+    "Digit6"       : {
+      "default"    : {
+        "base"     : "6",
+        "shift"    : "^"
+      }
+    },
+    "Digit7"       : {
+      "default"    : {
+        "base"     : "7",
+        "shift"    : "&"
+      }
+    },
+    "Digit8"       : {
+      "default"    : {
+        "base"     : "8",
+        "shift"    : "*"
+      }
+    },
+    "Digit9"       : {
+      "default"    : {
+        "base"     : "9",
+        "shift"    : "("
+      }
+    },
+    "Digit0"       : {
+      "default"    : {
+        "base"     : "0",
+        "shift"    : ")"
+      }
+    },
+    "KeyA"         : {
+      "default"    : {
+        "base"     : "c",
+        "shift"    : "C"
+      }
+    },
+    "KeyB"         : {
+      "default"    : {
+        "base"     : "-",
+        "shift"    : "_"
+      }
+    },
+    "KeyC"         : {
+      "default"    : {
+        "base"     : "j",
+        "shift"    : "J"
+      }
+    },
+    "KeyD"         : {
+      "default"    : {
+        "base"     : "e",
+        "shift"    : "E"
+      }
+    },
+    "KeyE"         : {
+      "default"    : {
+        "base"     : "o",
+        "shift"    : "O"
+      }
+    },
+    "KeyF"         : {
+      "default"    : {
+        "base"     : "a",
+        "shift"    : "A"
+      }
+    },
+    "KeyG"         : {
+      "default"    : {
+        "base"     : ",",
+        "shift"    : "<"
+      }
+    },
+    "KeyH"         : {
+      "default"    : {
+        "base"     : ".",
+        "shift"    : ">"
+      }
+    },
+    "KeyI"         : {
+      "default"    : {
+        "base"     : "d",
+        "shift"    : "D"
+      }
+    },
+    "KeyJ"         : {
+      "default"    : {
+        "base"     : "h",
+        "shift"    : "H"
+      }
+    },
+    "KeyK"         : {
+      "default"    : {
+        "base"     : "t",
+        "shift"    : "T"
+      }
+    },
+    "KeyL"         : {
+      "default"    : {
+        "base"     : "s",
+        "shift"    : "S"
+      }
+    },
+    "KeyM"         : {
+      "default"    : {
+        "base"     : "r",
+        "shift"    : "R"
+      }
+    },
+    "KeyN"         : {
+      "default"    : {
+        "base"     : "/",
+        "shift"    : "?"
+      }
+    },
+    "KeyO"         : {
+      "default"    : {
+        "base"     : "w",
+        "shift"    : "W"
+      }
+    },
+    "KeyP"         : {
+      "default"    : {
+        "base"     : "v",
+        "shift"    : "V"
+      }
+    },
+    "KeyQ"         : {
+      "default"    : {
+        "base"     : "b",
+        "shift"    : "B"
+      }
+    },
+    "KeyR"         : {
+      "default"    : {
+        "base"     : "u",
+        "shift"    : "U"
+      }
+    },
+    "KeyS"         : {
+      "default"    : {
+        "base"     : "i",
+        "shift"    : "I"
+      }
+    },
+    "KeyT"         : {
+      "default"    : {
+        "base"     : "'",
+        "shift"    : "\""
+      }
+    },
+    "KeyU"         : {
+      "default"    : {
+        "base"     : "l",
+        "shift"    : "L"
+      }
+    },
+    "KeyV"         : {
+      "default"    : {
+        "base"     : "k",
+        "shift"    : "K"
+      }
+    },
+    "KeyW"         : {
+      "default"    : {
+        "base"     : "y",
+        "shift"    : "Y"
+      }
+    },
+    "KeyX"         : {
+      "default"    : {
+        "base"     : "x",
+        "shift"    : "X"
+      }
+    },
+    "KeyY"         : {
+      "default"    : {
+        "base"     : ";",
+        "shift"    : ":"
+      }
+    },
+    "KeyZ"         : {
+      "default"    : {
+        "base"     : "g",
+        "shift"    : "G"
+      }
+    },
+    "Minus"        : {
+      "default"    : {
+        "base"     : "[",
+        "shift"    : "{"
+      }
+    },
+    "Equal"        : {
+      "default"    : {
+        "base"     : "]",
+        "shift"    : "}"
+      }
+    },
+    "BracketLeft"  : {
+      "default"    : {
+        "base"     : "z",
+        "shift"    : "Z"
+      }
+    },
+    "BracketRight" : {
+      "default"    : {
+        "base"     : "=",
+        "shift"    : "+"
+      }
+    },
+    "Backslash"    : {
+      "default"    : {
+        "base"     : "\\",
+        "shift"    : "|"
+      }
+    },
+    "IntlBackslash": {
+      "default"    : {}
+    },
+    "Semicolon"    : {
+      "default"    : {
+        "base"     : "n",
+        "shift"    : "N"
+      }
+    },
+    "Backquote"    : {
+      "default"    : {
+        "base"     : "`",
+        "shift"    : "~"
+      }
+    },
+    "Quote"        : {
+      "default"    : {
+        "base"     : "q",
+        "shift"    : "Q"
+      }
+    },
+    "Comma"        : {
+      "default"    : {
+        "base"     : "m",
+        "shift"    : "M"
+      }
+    },
+    "Period"       : {
+      "default"    : {
+        "base"     : "f",
+        "shift"    : "F"
+      }
+    },
+    "Slash"        : {
+      "default"    : {
+        "base"     : "p",
+        "shift"    : "P"
+      }
+    },
+    "Space"        : {
+      "default"    : {
+        "base"     : " "
+      }
+    }
+  }
+}
