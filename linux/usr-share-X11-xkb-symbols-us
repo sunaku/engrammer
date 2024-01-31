@@ -1,31 +1,31 @@
-// ENGRAMMER BEGIN ////////////////////////////////////////
+// ENGRAMMERDVP BEGIN ////////////////////////////////////////
 //
-// Engrammer - Arno's Engram 2.0 https://engram.dev variant
-//             with standard shifted pairs, for programmers
+// Engrammerdvp - Engrammer variant with Programmer's Dvorak sublayout
 //
-//	`~ 1! 2@ 3# 4$  5%  6^  7& 8* 9( 0) [{ ]}
-//	   bB yY oO uU  '"  ;:  lL dD wW vV zZ =+ \|
+//	$~ &% [7 {5 }3  (1  =9  *0 )2 +4 ]6 !8 #`
+//	   bB yY oO uU  '"  ;:  lL dD wW vV zZ @^ \|
 //	   cC iI eE aA  ,<  .>  hH tT sS nN qQ
 //	   gG xX jJ kK  -_  /?  rR mM fF pP
 //
 partial alphanumeric_keys
-xkb_symbols "engrammer"
-{
+xkb_symbols "engrammerdvp" {
 	include "us(basic)"
 
-	key <TLDE> { [        grave,  asciitilde ] }; // `~
-	key <AE01> { [            1,      exclam ] }; // 1!
-	key <AE02> { [            2,          at ] }; // 2@
-	key <AE03> { [            3,  numbersign ] }; // 3#
-	key <AE04> { [            4,      dollar ] }; // 4$
-	key <AE05> { [            5,     percent ] }; // 5%
-	key <AE06> { [            6,  asciicircum] }; // 6^
-	key <AE07> { [            7,   ampersand ] }; // 7&
-	key <AE08> { [            8,    asterisk ] }; // 8*
-	key <AE09> { [            9,   parenleft ] }; // 9(
-	key <AE10> { [            0,  parenright ] }; // 0)
-	key <AE11> { [  bracketleft,   braceleft ] }; // [{
-	key <AE12> { [ bracketright,  braceright ] }; // ]}
+	key <TLDE> { [ dollar,          asciitilde] }; //$~
+	key <AE01> { [ ampersand,       percent] }; //&%
+	key <AE02> { [ bracketleft,     7] }; // [7
+	key <AE03> { [ braceleft,       5] }; // {5
+	key <AE04> { [ braceright,      3] }; // }3
+	key <AE05> { [ parenleft,       1] }; // (1
+	key <AE06> { [ equal,           9] }; // =9
+
+	// symbols row, right side
+	key <AE07> { [ asterisk,        0] }; // *0	
+	key <AE08> { [ parenright,      2] }; // )2
+	key <AE09> { [ plus,            4] }; // +4
+	key <AE10> { [ bracketright,    6] }; // ]6
+	key <AE11> { [ exclam,          8] }; // !8
+	key <AE12> { [ numbersign,      grave] }; // #`
 
 	key <AD01> { [            b,           B ] }; // bB
 	key <AD02> { [            y,           Y ] }; // yY
@@ -38,7 +38,7 @@ xkb_symbols "engrammer"
 	key <AD09> { [            w,           W ] }; // wW
 	key <AD10> { [            v,           V ] }; // vV
 	key <AD11> { [            z,           Z ] }; // zZ
-	key <AD12> { [        equal,        plus ] }; // =+
+	key <AD12> { [           at,   asciicircum] }; // @
 	key <BKSL> { [    backslash,         bar ] }; // \|
 
 	key <AC01> { [            c,           C ] }; // cC
@@ -64,4 +64,4 @@ xkb_symbols "engrammer"
 	key <AB09> { [            f,           F ] }; // fF
 	key <AB10> { [            p,           P ] }; // pP
 };
-// ENGRAMMER END //////////////////////////////////////////
+// ENGRAMMERDVP END //////////////////////////////////////////
