@@ -10,7 +10,7 @@ install: $(SOURCE_SYMBOLS) $(TARGET_SYMBOLS) $(SOURCE_RULES) $(TARGET_RULES)
 	sed -i "$$(awk '/variantList/{ print NR; exit }' $(TARGET_RULES)) r $(SOURCE_RULES)" $(TARGET_RULES)
 
 uninstall: $(TARGET_SYMBOLS) $(TARGET_RULES)
-	sed -i '/ ENGRAMMERDVP BEGIN /,/ ENGRAMMERDVP END /d' $^
+	sed -i '/ REALENGRAMMER BEGIN /,/ REALENGRAMMER END /d' $^
 
 reinstall:
 	$(MAKE) uninstall
