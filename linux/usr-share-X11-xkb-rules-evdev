@@ -1,8 +1,8 @@
-<!-- ENGRAMMERDVP BEGIN -->
+<!-- REALENGRAMMER BEGIN -->
 <variant>
   <configItem>
-    <name>engrammerdvp</name>
-    <description>English (Engrammerdvp)</description>
+    <name>realengrammer</name>
+    <description>English (Realengrammer)</description>
   </configItem>
 </variant>
-<!-- ENGRAMMERDVP END -->
+<!-- REALENGRAMMER END -->
