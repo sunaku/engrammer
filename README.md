@@ -6,9 +6,12 @@ This is a programmer-friendly variant of Engrammer which itself is a variant of 
  This layouts features are:
 * Like Engrammer, / is placed by the right index finger to make typing directories and navigating the shell as easy as possible.
 * Commonly used math symbols like +, -, /, <, >, and = are centered on the index fingers and not the pinkies.
+
 * [], {}, and () are placed to corresponde the ring, middle, and index finger pairs respectively making it easier to write source code in C, C#, Java, Pascal, Lisp, CSS, XML and the like.
 
 * Semicolon is placed relative to comma and period just like Engrammer.
+
+* Numbers are placed in an even odd order so that 1 and 0, the most used numbers, are handled by the indexes. 
 
 * In contrast to engrammer, this layout does not attempt to preserve application shortcuts that assume standard shifted pairs, such as Control-Equals for the "zoom in" operation. It instead focuses solely on increasing speed when typing source. 
 To illustrate the differences between this layout, Engrammer, and Engram:
