@@ -62,9 +62,6 @@ xkb_symbols "engrammerdvp" {
 	key <AB07> { [            r,           R ] }; // rR
 	key <AB08> { [            m,           M ] }; // mM
 	key <AB09> { [            f,           F ] }; // fF
-	key <AB10> { [            p,           P ] }; // pP
-	key <CAPS> { [ Control_L ] };
-	key <LCTL> { [ Caps_Lock ] };
-	modifier_map Control { <CAPS> };
+	key <AB10> { [            p,           P ] }; //
 };
 // ENGRAMMERDVP END //////////////////////////////////////////
