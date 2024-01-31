@@ -6,9 +6,9 @@ This is a programmer-friendly variant of Engrammer which itself is a variant of 
 * Semicolon is placed relative to comma and period just like standard.
 * This sub-layout makes it easier to write source code in C, C#, Java, Pascal, Lisp, CSS, XML and alikes by incorporating the symbol layout Programmer Dvorak. It was generated through reflection of the most common constructs in these languages and the rules set forward by the August Dvorak in his research, then verified by scanning through thousands of source code lines ensuring that a good fit was found.
 * In contrast to engrammer, this layout does not attempt to preserve application shortcuts that assume standard shifted pairs, such as Control-Equals for the "zoom in" operation. It instead focuses solely on increasing speed when typing source. 
-To illustrate the differences between this layout, Engrammer, Engram, and QWERTY:
+To illustrate the differences between this layout, Engrammer, and Engram:
 
-Engrammerdvp
+Realengrammer
 >     $~ &% [7 {5 (3  +1  =9  )0 }2 ]4 *6 !8 #`
 >        bB yY oO uU  '"  ;:  lL dD wW vV zZ @^ \|
 >        cC iI eE aA  ,<  .>  hH tT sS nN qQ
