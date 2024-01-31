@@ -1,6 +1,6 @@
-// ENGRAMMERDVP BEGIN ////////////////////////////////////////
+// REALENGRAMMER BEGIN ////////////////////////////////////////
 //
-// Engrammerdvp - Engrammer variant with Real Programmer's Dvorak sublayout
+// Realengrammer - Engrammer variant with Real Programmer's Dvorak sublayout
 //
 //	$~ &% [7 {5 (3  +1  =9  )0 }2 ]4 *6 !8 #`
 //	   bB yY oO uU  '"  ;:  lL dD wW vV zZ @^ \|
@@ -8,7 +8,7 @@
 //	   gG xX jJ kK  -_  /?  rR mM fF pP
 //
 partial alphanumeric_keys
-xkb_symbols "engrammerdvp" {
+xkb_symbols "realengrammer" {
 	include "us(basic)"
 
 	key <TLDE> { [ dollar,         asciitilde] }; // $~
@@ -64,4 +64,4 @@ xkb_symbols "engrammerdvp" {
 	key <AB09> { [            f,           F ] }; // fF
 	key <AB10> { [            p,           P ] }; //
 };
-// ENGRAMMERDVP END //////////////////////////////////////////
+// REALENGRAMMER END //////////////////////////////////////////
