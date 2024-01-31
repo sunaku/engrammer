@@ -1,8 +1,8 @@
 // ENGRAMMERDVP BEGIN ////////////////////////////////////////
 //
-// Engrammerdvp - Engrammer variant with Programmer's Dvorak sublayout
+// Engrammerdvp - Engrammer variant with Real Programmer's Dvorak sublayout
 //
-//	$~ &% [7 {5 }3  (1  =9  *0 )2 +4 ]6 !8 #`
+//	$~ &% [7 {5 (3  +1  =9  )0 }2 ]4 *6 !8 #`
 //	   bB yY oO uU  '"  ;:  lL dD wW vV zZ @^ \|
 //	   cC iI eE aA  ,<  .>  hH tT sS nN qQ
 //	   gG xX jJ kK  -_  /?  rR mM fF pP
@@ -11,21 +11,21 @@ partial alphanumeric_keys
 xkb_symbols "engrammerdvp" {
 	include "us(basic)"
 
-	key <TLDE> { [ dollar,          asciitilde] }; //$~
-	key <AE01> { [ ampersand,       percent] }; //&%
-	key <AE02> { [ bracketleft,     7] }; // [7
-	key <AE03> { [ braceleft,       5] }; // {5
-	key <AE04> { [ braceright,      3] }; // }3
-	key <AE05> { [ parenleft,       1] }; // (1
-	key <AE06> { [ equal,           9] }; // =9
+	key <TLDE> { [ dollar,         asciitilde] }; // $~
+	key <AE01> { [ ampersand,         percent] }; // &%
+	key <AE02> { [ bracketleft,             7] }; // [7
+	key <AE03> { [ braceleft,               5] }; // {5
+	key <AE04> { [ parenleft,               3] }; // (3
+	key <AE05> { [ plus,                    1] }; // +1
+	key <AE06> { [ equal,                   9] }; // =9
 
 	// symbols row, right side
-	key <AE07> { [ asterisk,        0] }; // *0	
-	key <AE08> { [ parenright,      2] }; // )2
-	key <AE09> { [ plus,            4] }; // +4
-	key <AE10> { [ bracketright,    6] }; // ]6
-	key <AE11> { [ exclam,          8] }; // !8
-	key <AE12> { [ numbersign,      grave] }; // #`
+	key <AE07> { [ parenright,              0] }; // )0	
+	key <AE08> { [ braceright,              2] }; // }2
+	key <AE09> { [ bracketright,            4] }; // ]4
+	key <AE10> { [ asterisk,                6] }; // *6
+	key <AE11> { [ exclam,                  8] }; // !8
+	key <AE12> { [ numbersign,          grave] }; // #`
 
 	key <AD01> { [            b,           B ] }; // bB
 	key <AD02> { [            y,           Y ] }; // yY
@@ -38,7 +38,7 @@ xkb_symbols "engrammerdvp" {
 	key <AD09> { [            w,           W ] }; // wW
 	key <AD10> { [            v,           V ] }; // vV
 	key <AD11> { [            z,           Z ] }; // zZ
-	key <AD12> { [           at,   asciicircum] }; // @
+	key <AD12> { [           at,  asciicircum] }; // @^
 	key <BKSL> { [    backslash,         bar ] }; // \|
 
 	key <AC01> { [            c,           C ] }; // cC
