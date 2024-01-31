@@ -1,7 +1,7 @@
 [Arno's Engram]: https://engram.dev
 
 # Realengrammer - [Engrammer] layout for programmers.
-This is a programmer-friendly variant of Engrammer which itself is a variant of [Arno's Engram] 2.0 keyboard layout that helps speed up programming by putting the symbols in a better position inspired by the Real Programmer Dvorak layout. Why a new layout? As nice as it is, engrammer has some serious problems when writing source code. The characters are in an Engram layout all right, but the symbols are put in the same hopeless locations as in the Qwerty layout!
+This is a programmer-friendly variant of Engrammer which itself is a variant of [Arno's Engram] 2.0 keyboard layout that helps speed up programming by putting the symbols in a better position inspired by both the original programmers dvorak the Real Programmer Dvorak layout. Why a new layout? As nice as it is, engrammer has some serious problems when writing source code. The characters are in an Engram layout all right, but the symbols are put in the same hopeless locations as in the Qwerty layout! 
 
  This layouts features are:
 * Like Engrammer, / is placed by the right index finger to make typing directories and navigating the shell as easy as possible.
@@ -11,7 +11,7 @@ This is a programmer-friendly variant of Engrammer which itself is a variant of 
 
 * Semicolon is placed relative to comma and period just like Engrammer.
 
-* Numbers are placed in an even odd order so that 1 and 0, the most used numbers, are handled by the indexes. 
+* Numbers are placed in an different order so that 1 and 0, the most used numbers, are handled by the indexes. 
 
 * In contrast to engrammer, this layout does not attempt to preserve application shortcuts that assume standard shifted pairs, such as Control-Equals for the "zoom in" operation. It instead focuses solely on increasing speed when typing source. 
 To illustrate the differences between this layout, Engrammer, and Engram:
