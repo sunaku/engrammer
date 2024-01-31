@@ -1,37 +1,35 @@
 [Arno's Engram]: https://engram.dev
 
-# Engrammer - [Arno's Engram] layout for programmers
-
-This is a programmer-friendly variant of [Arno's Engram] 2.0 keyboard
-layout that helps maintain cross-proficiency with standard keyboards:
-
-* Shifted pairs are standard (e.g. quotes don't shift to parentheses).
+# Engrammerdvp - [Engrammer] layout for programmers.
+This is a programmer-friendly variant of Engrammer which itself is a variant of [Arno's Engram] 2.0 keyboard layout that helps speed up programming by putting the symbols in a better position inspired by the Programmer Dvorak layout. Why a new layout? As nice as it is, engrammer has some serious problems when writing source code. The characters are in an en layout all right, but the symbols are put in the same hopeless locations as in the Qwerty layout!
+ 
 * Semicolon is placed relative to comma and period just like standard.
-* Equals and square brackets are placed near their standard locations.
+* This sub-layout makes it easier to write source code in C, C#, Java, Pascal, Lisp, CSS, XML and alikes by incorporating the symbol layout Programmer Dvorak. It was generated through reflection of the most common constructs in these languages and the rules set forward by the August Dvorak in his research, then verified by scanning through thousands of source code lines ensuring that a good fit was found.
+* In contrast to engrammer, this layout does not attempt to preserve application shortcuts that assume standard shifted pairs, such as Control-Equals for the "zoom in" operation. It instead focuses solely on increasing speed when typing source. 
+To illustrate the differences between this layout, Engrammer, Engram, and QWERTY:
 
-In addition, application shortcuts that assume standard shifted pairs,
-such as Control-Equals for the "zoom in" operation, now work properly.
+Engrammerdvp
+>     $~ &% [7 {5 (3  +1  =9  )0 }2 ]4 *6 !8 #`
+>        bB yY oO uU  '"  ;:  lL dD wW vV zZ @^ \|
+>        cC iI eE aA  ,<  .>  hH tT sS nN qQ
+>        gG xX jJ kK  -_  /?  rR mM fF pP
 
-To illustrate the differences between this layout, Engram, and QWERTY:
-
->*Legend:* Gold is [Arno's Engram]; Blue is Engram-like; Pink is new.
->![Rendering of this layout on a standard 60% keyboard.](https://raw.githubusercontent.com/sunaku/engrammer/main/layout.png)
->![Rendering of this layout on an ortholinear keyboard.](https://raw.githubusercontent.com/sunaku/engrammer/main/ortho.png)
->
+Engrammer
 >     `~ 1! 2@ 3# 4$  5%  6^  7& 8* 9( 0) [{ ]}
 >        bB yY oO uU  '"  ;:  lL dD wW vV zZ =+ \|
 >        cC iI eE aA  ,<  .>  hH tT sS nN qQ
 >        gG xX jJ kK  -_  /?  rR mM fF pP
 
-For example, here are my split ortholinear keyboards using this layout:
+Engram     
+>     [{ 1| 2= 3~ 4+  5<  6>  7^ 8& 9% 0* ]} /\
+>        bB yY oO uU  '(  ")  lL dD wW vV zZ #$ @`
+>        cC iI eE aA  ,;  .:  hH tT sS nN qQ 
+>        gG xX jJ kK  -_  ?!  rR mM fF pP
 
-* This is [my Glove80](https://sunaku.github.io/moergo-glove80-keyboard.html) keyboard by MoErgo:
->![Photo of MoErgo Glove80](https://raw.githubusercontent.com/sunaku/sunaku.github.io/master/moergo-glove80-keyboard-photograph.jpg)
->![Layout of MoErgo Glove80](https://raw.githubusercontent.com/sunaku/sunaku.github.io/master/moergo-glove80-keyboard-base-layer.png)
 
-* This is [my Remnant](https://sunaku.github.io/ergohaven-remnant-keyboard.html) keyboard by Ergohaven:
->![Photo of Ergohaven Remnant](https://raw.githubusercontent.com/sunaku/sunaku.github.io/master/ergohaven-remnant-keyboard-photograph.jpg)
->![Layout of Ergohaven Remnant](https://raw.githubusercontent.com/sunaku/sunaku.github.io/master/ergohaven-remnant-keyboard-base-layer.png)
+
+
+
 
 ## Linux setup
 
@@ -43,8 +41,7 @@ Install:
 
 Activate:
 
-    setxkbmap -layout us    -variant engrammer         # one layout; no switch
-    setxkbmap -layout us,us -variant engrammer,basic   # dual layout switching
+    setxkbmap -layout us    -variant engrammer 
 
 Repair (e.g. whenever a system-wide XKB package upgrade reverts installation):
 
@@ -58,21 +55,6 @@ Uninstall:
     sudo make uninstall
     echo Now restart your graphical session.
 
-## Windows setup
-
-You can [download a pre-built installation package](
-  https://github.com/sunaku/engrammer/releases/download/windows/engrammer.zip
-) or build one yourself, like this:
-
-1. Install the official _Microsoft Keyboard Layout Creator_ app: [MSKLC version 1.4](
-  https://www.microsoft.com/en-us/download/details.aspx?id=102134
-).
-
-2. Launch the MSKLC app and open up the `windows\engrammer.klc` source file.
-
-3. From the "Project" menu, select the "Build DLL and Setup Package" action.
-
-4. Open the resulting build directory and run the `setup.exe` installer file.
 
 ## License
 
