@@ -74,6 +74,16 @@ You can [download a pre-built installation package](
 
 4. Open the resulting build directory and run the `setup.exe` installer file.
 
+## Type Fu setup
+
+![type-fu.com](https://github.com/sunaku/engrammer/assets/9863/f90439c8-3d96-4902-b471-45511fba8c33)
+
+1. Launch the [Type Fu](https://type-fu.com/) app, then open the "More" menu.
+
+2. Go to Preferences > Keyboard > Functional > "More" menu > Import from file.
+
+3. Pick the `type-fu.com/engrammer.tfl` file from your copy of this repository.
+
 ## License
 
 Released under the same terms as [Arno's Engram]:
