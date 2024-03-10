@@ -74,6 +74,14 @@ You can [download a pre-built installation package](
 
 4. Open the resulting build directory and run the `setup.exe` installer file.
 
+## MacOS setup
+
+1. Copy `macos/Engrammer.bundle` to `~/Library/Keyboard Layouts/` directory
+
+2. Log out and Log in again to your MacOS user
+
+3. Open Keyboard Settings and add Engrammer from the list of English layouts
+
 ## Type Fu setup
 
 ![type-fu.com](https://github.com/sunaku/engrammer/assets/9863/f90439c8-3d96-4902-b471-45511fba8c33)
