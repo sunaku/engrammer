@@ -1,0 +1,1065 @@
+<?xml version="1.0"?>
+<course>
+<id>{2435be43-116d-4011-b5cf-e63100f0fbce}</id>
+<title>Engrammer (US) Lessons - 3</title>
+<description></description>
+<keyboardLayout>Engrammer (US)</keyboardLayout>
+<lessons>
+    <lesson>
+    <id>{fa4194bc-894f-4319-b8a3-1e4eeb466e36}</id>
+    <title>Lesson 1 - ha</title>
+    <newCharacters>ha</newCharacters>
+    <text>ah a ha aaa hh h aa a aaa hh h ha aa ah a ah h hh ha aa aaa
+aa ah h a hh ha aaa a aa aaa ah ha h hh aaa ha a aa ah h hh
+ha a h ah aa hh aaa aaa ha hh aa h a ah ah hh h aaa ha aa a
+aaa ah hh ha aa a h hh ah a h aa ha aaa a aaa hh ah aa h ha
+ha a ah aa h aaa hh ah hh aa aaa h ha a a ah h ha aa aaa hh
+ah aa ha hh h aaa a hh ha a aaa ah aa h ah h aa hh ha aaa a
+hh aaa h a ha aa ah h a ah aa aaa hh ha aaa ha hh ah aa a h
+aa aaa h hh a ha ah a ha aa hh h aaa ah aaa aa ha hh ah a h
+hh a ha aa aaa h ah ha a aa aaa h hh ah aa a ah h aaa hh ha
+ha ah a aaa aa hh h aaa ha h aa a ah hh ha a h aaa aa hh ah
+ah h ha a aaa hh aa a hh aa ah ha h aaa ah h aaa a ha hh aa
+hh aaa aa a ha ah h aa ah h aaa a hh ha hh h a ah ha aaa aa
+ah h hh aa aaa a ha hh ha a aa aaa ah h aa ah h ha a hh aaa
+hh aa a aaa ah ha h ah aaa hh ha aa a h aaa h hh a aa ha ah
+aaa h ah a hh ha aa ha h a aa aaa ah hh aa aaa a ah hh h ha
+aaa ah aa a ha h hh aa aaa ha hh a ah h aaa aa ha hh ah a h
+aaa ah h hh ha a aa a aa aaa ha h hh ah</text>
+    </lesson>
+    <lesson>
+    <id>{463793a5-1b5e-4514-b07f-ad45e6629bae}</id>
+    <title>Lesson 2 - te</title>
+    <newCharacters>te</newCharacters>
+    <text>tee the ht te ata tea at tt teeth e ee heat ta et th heath
+ae theta t thee eh that he ea eat ate hate hat he ea thee et
+eh tee te t heat teeth th ate ata tt tea eat heath theta ht
+hat hate at ta ae e that ee the t heath tea ta that ae eh
+ata et e at heat tt tee te ea teeth ee ht th thee the theta
+ate hate he eat hat et eat t at te ae teeth he tee ata ea ta
+e eh the tt heat heath that hat ee tea thee ate hate theta
+ht th hate eh theta tea et he that ate t ea heat hat the at
+ae tee ta ht te tt th eat e ee teeth thee heath ata t theta
+hate ee tea teeth e eh ta ea ata that ht ae heath thee hat
+tee the tt et heat at th te eat ate he ht teeth ae tt th tee
+ata ea that e hat te eat at the heat eh ee ate tea hate
+heath theta thee ta he et t et ata e the heat at tt teeth
+theta ate ta ee tea eat t ea hat thee that hate ae ht he
+heath te th tee eh e th et tea theta heath t he ata ta the
+te eat ea ee heat hate at ht ate ae tt tee that thee teeth
+hat eh et ta tea hate eat th the tee te heat ht</text>
+    </lesson>
+    <lesson>
+    <id>{a6ac4a1b-304f-4317-bfa0-547a82ac60c1}</id>
+    <title>Lesson 3 - si</title>
+    <newCharacters>si</newCharacters>
+    <text>test estate it ist seat se stat es st asia these taste see
+sie sea hi thai sit thesis asset stats ties site hs ease ai
+ss seats ash s ati assess est thats ii si east assist seas
+assists sat as his sees sa haiti hash isa ia sheet ste
+states she hit sheets hist iii has ieee state estates assets
+tests set this sas hits is i its hats sites sh ie ti tie
+sets ts hats hash hi estates ss this its ii thesis has ist
+sea ste ie assist asia estate thats east states sat iii
+tests stats se sites seat hits taste ia ai sets seas sees
+assets ieee es sa sas si his ts site ati state hit haiti st
+tie thai hist isa asset sit s she test set these ash sheets
+ti as ties sheet assess sh seats est ease it assists stat i
+see sie hs is hit assets assess ties his sie test ash see
+taste es seas sees hats est hash this sh thai asset ie isa
+is si sheet hits se ste east site ia seat thats sas these
+estates ieee sat tests st set thesis ts haiti has ease sa
+sit ii ti assist sets asia she its tie sites iii stats
+estate</text>
+    </lesson>
+    <lesson>
+    <id>{34b750c6-ae82-4b90-a600-b6a8e1ed0354}</id>
+    <title>Lesson 4 - nc</title>
+    <newCharacters>nc</newCharacters>
+    <text>cincinnati inches chances ian santa nathan than cassette
+cheese hansen asin tennis attach chain issn ic hitachi asian
+tenant sentences scenic cash san cite anne intent instance
+ec tech cats assistant athens sn cent technician enhance sen
+scsi tn nine in tc accent cases sense instant science ac
+static nat antenna titans ten tan teaches acne then acc inch
+scientist cat sin cant nest chi sc ancient ct essence ict nn
+seen sent case chess nissan ni chase net hints ace chest
+teens cache sentence sec css en ne titten shine ch saints
+casa instances stan cn teach chains catch scan int ci nh ana
+ethnic scene nhs since assistance tent c chan tin sic inc
+chen asn sci cst hc cas tennessee cia scenes cnn nc
+statistics ascii ent access cheat acts annie scientists n
+ice cents satin hint nice ca thin nt chat nasa each cs na
+nec etc saint ant senate ncaa intense chance sans ce ntsc
+cities cet ann chassis entities an cnet chinese ns cc ins
+hans anna cheats can anti sean tactics inns teen cast
+insects</text>
+    </lesson>
+    <lesson>
+    <id>{c3428e28-ead9-4659-ba78-61588971e87a}</id>
+    <title>Lesson 5 - ,.</title>
+    <newCharacters>,.</newCharacters>
+    <text>e . antenna . thee . ent . ata . sea , access , chan . each
+, theta , ntsc . technician . cc . sans . et , ethics .
+chassis , tt , seats . tee , then . ss . net , state . teens
+, ah . inc . assess , ct . aa , ci , sci , ian , hints .
+saint , s , cent . sat . tests . sciences . enhance , titten
+. stat , estates , titans , chi . hist . inn . sie , athens
+, isa , inns , chase . sean . sec . tc . ati , chen . sic ,
+chances . nat . ist , ethnic , cheese . cities . ia , na .
+hit . etc . hat . cia . seat , hits , as , is , nec , nn .
+east , css . essence . sa , set . chat . ancient . asin .
+nhs , tea , asian , cant , insects . ins , acc . science .
+estate , acts , she , sentence , cas , asia , its . hint ,
+seas . sheets , t . issn , santa . assistance , sent . ae ,
+inches , saints . ec , tan , nice . ch . ns . act , instant
+, ea , teach , ieee , has . th , ste . aaa , cat , at ,
+hence , scsi , nc , int . chains , a . sets , heath , senate
+. nh . ht , hats , hate . sh . chess , cincinnati .</text>
+    </lesson>
+    <lesson>
+    <id>{a032696f-01bb-4888-8257-727f009ac5b8}</id>
+    <title>Lesson 6 - qu</title>
+    <newCharacters>qu</newCharacters>
+    <text>cause nut , shut ut , sequence uc , thehun q , una antique .
+suites seq , nu antiques . causes itunes . sq us , eu utah .
+cheque quest . nutten icq . que aus , hu tune . quit sue ,
+suits sunset . utc quantities . sauce statute . success
+status , issues ui . quiet queens , unique units . queue
+unit . suit institutes , susan tunes . uses une , cuts qui .
+uh quite . eau qt , cu sequences . suite issue , authentic
+queen , thu tunisia . such techniques , qc nuts , aqua un .
+use tu . statutes aquatic , austin au thehun aquatic , . eu
+issues ui utah utc . statute aqua techniques units que
+unique tune , . una , sauce au qt , susan . , icq , hu ,
+institutes uc authentic use , sunset itunes nutten uses ,
+qui nuts . , , . cause us statutes such tunes . q seq . ,
+quiet quite . nu suite , , sequence une , quantities cuts .
+. unit un sue . queen . sq austin . . suits suit sequences
+quit . . quest tu cheque success aus . queue eau uh tunisia
+shut thu , ut . issue , , status antiques cu queens nut</text>
+    </lesson>
+    <lesson>
+    <id>{a49d3857-bb7d-48eb-9f75-4ac8a8d898a6}</id>
+    <title>Lesson 7 - ul</title>
+    <newCharacters>ul</newCharacters>
+    <text>sale austin , quiet liechtenstein . cancel uc . uni lines .
+lace chile . lithuania latest , suit usa . illness class .
+suite un . sell usc , shell line . ui all . leu ln . lance
+hall . atlas clinics . nuts atlanta , silent antique , eu
+tissue . hull tunisia . client us . qualities tells . null
+allan , nil hu . queue llc . else italic . aqua lite . neil
+tunnel , launch clinical , incl aus , lt tunes , thus quilt
+, quest settle , listen suites , lisa channels , title
+cheque , let uncle , lucia suits . tail techniques , la
+clause , heel institutes . late alice , ellis sunshine . lie
+elect . luis una , units unit . alias shuttle , ala til .
+uses less , athletic u . lucas steel , nl ethical . classic
+unusual . tile lu . status utils , uh cu , tue lenses ,
+essential castle . clinic el , seal clan . classical till ,
+cells sauce . lee sail , lat nut . install tulsa , assault
+cal , authentic lets , cause athletics . lens intl . intel
+lease , su nail . susan quit . cuisine lies . technique</text>
+    </lesson>
+    <lesson>
+    <id>{c3c2f22d-9583-41e6-9362-91d46a70c66f}</id>
+    <title>Lesson 8 - od</title>
+    <newCharacters>od</newCharacters>
+    <text>destination hood . indonesian aid . diet acids , decent said
+, ohio collect . chad initiated . told oct , section listed
+, cancellation shield . cd ho . edition slides , ed dance ,
+di addition . headlines louisiana , antonio lead . dec duo ,
+dental host . societies latitude , disco indicates ,
+decision councils , das hostel . hd decide . instead
+sessions , indie ltd , student lined . distances condo . lou
+oecd , cloud discussed , stud sao . ad deleted , associates
+noon . dolls shoes . scout squad . closed coins , stand
+slide . used households . decline choices . nodes announces
+, und dead , consistent detected . enclosed ada . audi ends
+, casio consoles . audience incidence . held honest , node
+sections , announced thousand . todd stated , seeds
+sustained . candles solid . dense union . sounds dans ,
+house cloth . hands dash . collections andale , laid had ,
+accused consultation , condition detection . soil dealt ,
+houston candidate , add decided , indicated dean . detailed
+shades ,</text>
+    </lesson>
+    <lesson>
+    <id>{54802aab-932b-440f-a5bf-b5e6d1b68f73}</id>
+    <title>Lesson 9 - yw</title>
+    <newCharacters>yw</newCharacters>
+    <text>weed willow daily . tuesday wealth toy . wy yellow why .
+taiwan wellness slowly , widely andy newest . switched wool
+utility , easy daddy cycle . cloudy whole additionally .
+walls who twin , diy won syndication . nasty lowest analysts
+, wholesale slow wendy . dayton study easily . walnut
+hollywood town . two twice wto , equally hawaiian ottawa .
+show essays continuity . wales wine window , ye toys saw ,
+anyway towns annually , deadly county allows , thy newcastle
+anthony . closely sandwich wish . wheat halloween downtown ,
+lows continually sw , wash italy alloy , cindy wallet
+density . with ww dow , will wednesday dylan . what wants
+colony . wc any wise , layout watts canyon , daisy wisconsin
+tony , owned laws ways , cycles cow yo , wishes we lately ,
+always nylon sony , walt whats hey . yield intensity aw .
+totally yu analytical . says hawaii new . went wt healthy ,
+swedish wa within . way wheel youth . yale sync nw , white
+lindsay twist , stylish switches watch , downloaded now</text>
+    </lesson>
+    <lesson>
+    <id>{83d76d39-d720-4740-893f-6636093f96d6}</id>
+    <title>Lesson 10 - bv</title>
+    <newCharacters>bv</newCharacters>
+    <text>olive obviously built . visual buttons belt . vessel
+database bald . oval website boc . bytes quantitative busy ,
+battle univ substantially . activity consecutive evaluations
+, visit ballet sb , values db deviant , beat achieve boats ,
+solved bunny elvis . collectables avenue venue . civilian
+tba collective , activities celebs balance , bo vsnet david
+. hobbies club advised , bow ave lesbians . abilities ba bio
+. vacation bd seventh , ebay bl advanced . cuba byte libs ,
+cave obvious stable , view activation invalid . lib bold bad
+, voted labeled advise , bases leaves violent . bone
+biblical bite . equivalent save steven , belts cubic villas
+. noble connectivity activated , blonde detective heaven .
+achieved nb sv . eval bush unavailable . bluetooth obtain
+biol , double conventions vaccine . hobby vbulletin baseball
+. boots about steve . label believed valley . validation cb
+bs , boy advocacy vat . eve divide bailey . vision haven
+waves . both heavy accessibility , advance vehicle nova</text>
+    </lesson>
+    <lesson>
+    <id>{96aa79ad-36bf-4515-a3fe-64aeaaabbf41}</id>
+    <title>Lesson 11 - z=</title>
+    <newCharacters>z=</newCharacters>
+    <text>analyzed = tanzania , az . quizzes , zus . czech = cz .
+zdnet = za . z = zinc , analyzes = dozens = citizen = lazy =
+size = civilization = zoo = belize = zu , zen = citizens ,
+ez = venezuela , buzz = zealand . analyze = zone . sizes =
+hz . dozen = zones = ozone , benz = liz = sized = utilize .
+biz , elizabeth = nz = utilization , quiz = oz zoo zinc
+analyzes analyze czech zen = = lazy = nz . analyzed = = zus
+= tanzania . cz utilize zu = = sizes belize = , = venezuela
+, , size citizen quiz oz . benz = = . zdnet , biz . , .
+utilization elizabeth = = ez , liz zones = zealand hz = = =
+. = sized , = ozone z civilization = = dozens buzz citizens
+. quizzes = dozen az , = zone , = za zdnet quizzes sized =
+citizens benz analyzed z = nz cz = zoo = = utilize lazy . ,
+= , = = belize ozone = = civilization . utilization = = = .
+= , liz . citizen az zen oz . . ez = = analyzes sizes = =
+quiz zones czech = , = zu . = dozen tanzania , buzz
+elizabeth = zone za analyze hz = , = , zus , venezuela
+zealand</text>
+    </lesson>
+    <lesson>
+    <id>{d26247f5-0195-4543-b8fe-22bb91a6f119}</id>
+    <title>Lesson 12 - ';</title>
+    <newCharacters>';</newCharacters>
+    <text>liechtenstein , chase ; lunch ; adobe ' blah , unions ; hood
+' belly ; suit ; hon ' held . institution ' louise ' iso '
+sc ' helen ' scout = chains ; usb . advocacy . beatles . tv
+' biz ' contacted , boots ' const ' bytes ; equations , cl '
+ts . lanes , visual ' tend , albania ' queens ; citations ;
+ebay ; hands . enhanced ' voted ; ellen ' lc ; viewed , dell
+= sweden ' td ; slot ; distance ; scientist ; quite ; vessel
+. ae ; belt ; clinic = uv ; sole ; else ; stable . tennis .
+such . classes = thehun = clean , steven , voice = swedish ;
+discuss . individually , inclusive ' twist ' weed ' houses ;
+thy ; has ' only . located ' bench ' lawn ; eh , tb ; vice '
+elected = sn . loves ' outside ' acoustic . need , olive ,
+indians = ten = qc ; bl ; associated = allocation , avon =
+votes , levels ; ballot ' hit = eau = tests . leads , eyed =
+banned ; situated ; identical ' studio ; elvis , van ;
+nations , andy ; below ' bell ; nine , l . bills = ladies '
+assistance ' selective ' oclc ' bd '</text>
+    </lesson>
+    <lesson>
+    <id>{5fd755b1-3f2f-4220-8056-43cafeaf2fea}</id>
+    <title>Lesson 13 - kr</title>
+    <newCharacters>kr</newCharacters>
+    <text>creek sisters = creature robots . nebraska international '
+shake obituaries . ak nuke = tanks electricity ; decorative
+sellers ; reality distributors . round outdoor , boundaries
+advertisers ' notebooks roots . cork chicken , turkish
+skilled ; ranked already , donor destroy = clarke trackbacks
+; takes ask = looked later ' took drink , hire kb .
+character checks . weekends talks . herein tank ; bracket
+coordinated = tackle circular , korea kit , nike hack .
+twiki backed ; walk relates ' stewart drunk ' kind trial =
+knives disk , alike translate . burke abroad = childrens
+like , arabic hebrew ' lovers shakira = nickel cook ' intake
+kinase ' hk trivia , kai basket = shark alaska . tribal
+liked = delivers clark ' bulk turned ' brokers drain = rh
+theory ; kits handbook ' keyword ronald = railroad ebooks ,
+reno attacks ' notebook covers ' arkansas control ; trunk
+basketball , desk weekend . oakland darwin = stock katie ,
+art towers , stuart racks . tracker residents ; rate kiss =
+short lock</text>
+    </lesson>
+    <lesson>
+    <id>{8fdcfdf5-60fd-4bd2-8ceb-f6ca5fac3359}</id>
+    <title>Lesson 14 - jm</title>
+    <newCharacters>jm</newCharacters>
+    <text>joan drama mart ; remarks movements jun = juvenile
+mysterious journey ' josh webmaster jet = jesse injection
+jacksonville ; ceramic johnson sbjct ; job muslims amounts '
+columns namely jackets = marion adjacent admin . jeans room
+jazz . mc medical object . joins reject american ; mil
+joshua obj = assembled jackson minus = aluminium macro
+stream = objective michelle just ' name admission mineral ,
+jon mysql jenny ; mhz malaysia jerry , jonathan demands
+welcome ' jack subjects commercial , johns jail objects '
+jordan manchester ministry , enemies democrat joel , column
+combined jj ' journalism emacs automobiles . millennium
+johnny java , julia money adjustments . jvc achievements
+immediate . jim jake joy . objectives enjoy marc , aj jay
+accommodations = ja jackie asylum , benjamin james islamic ,
+wma bathroom medication ; jewelry js jewel . jokes marine
+comedy . major oem mj ' joe documented dj ; june modular
+mitsubishi ; joint julie westminster , adjusted commit jam =
+johnston</text>
+    </lesson>
+    <lesson>
+    <id>{0aa52e05-8de0-4b56-a3fc-c1aeb471c27f}</id>
+    <title>Lesson 15 - xf</title>
+    <newCharacters>xf</newCharacters>
+    <text>fame final certified , funded forth exclusion , excitement
+differently excluded = inbox workforce flood ; exact xi taxi
+= mixture relief fraud = boxed halifax rx , offline
+extension affair ; difficult federation fathers ' foster
+facial belfast ' ext fun refinance = textbook fisher fr .
+frequently latex xanax ' fusion sexual wife . transfers
+indexed sussex . friday fifth full ' exit firewire findlaw ;
+surfaces toxic examined = transformation classification
+defensive = exclude vertex examines . toolbox extends
+executed ' inform influences external ' force tx finite .
+anxiety fx exec . axis mix face , extraction taxes tax ,
+text info fate . exactly refers existence = deluxe from
+offshore ' surf traffic xml . exclusive excited excellence =
+linux transexuales diffs , six off exam , front exists folk
+. annex fares sexuality ' mixed efficient relax ' fatty
+excuse folks . lexus five fix ' oxide extra x . ix xerox
+defense , relaxation xbox exhibit ; differential furthermore
+forty ' filme</text>
+    </lesson>
+    <lesson>
+    <id>{4e60c158-2747-4d12-8769-288f30882fda}</id>
+    <title>Lesson 16 - gp</title>
+    <newCharacters>gp</newCharacters>
+    <text>greek approx springfield ; bishop symptoms epic ; ge
+sapphire drawing . legendary photographic ecological '
+performance angle presence . counting hypothetical logged ;
+optional compounds scanning = ring sparc glance ' apparently
+gg leading ; song cartridges girlfriend ; exemption reported
+eg = erp shanghai although . broadcasting grow given =
+specialists typing prairie ' reg publicly understanding .
+hungry helicopter projector ; potatoes promoting panic =
+interpretation logan pakistan . happiness gate picture ;
+popular airports mug . delivering mustang bang , msgid
+hospitality niger = logic christopher manage . strength
+periodic specially ' adaptation bringing modelling '
+proposal prisoner replica , buying permitted following =
+writing nursing spider , green explaining tonight ; podcasts
+boating reproduced , uruguay target angels , smtp respect
+transcription ' recipe implications hang . investigations
+payment powell = charges contacting emperor . president
+myspace global , transcripts</text>
+    </lesson>
+    <lesson>
+    <id>{a2849139-0883-45b4-a431-3b6367406eb7}</id>
+    <title>Lesson 17 - -/</title>
+    <newCharacters>-/</newCharacters>
+    <text>interracial - assure ' excited - fossil - must , sticks ;
+paying / referenced = passing / advanced / pit -
+supplemental ; recall / dispute ; discovered - samsung /
+sight ' recognition - enb / collaborative ' well '
+limitations - algorithm / policy = wb / rf - supporters /
+regardless / carrier / australia / intranet / heavily /
+fireplace / islamic , apr - accreditation ' qt = expertise /
+charter ' reasoning = body / perceived - ons . sleeps .
+enables ; erik - lotus . indoor , bureau - universal /
+concerns ; climbing - readers . think . hawaii - tourist =
+thursday , broadcasting / bleeding / difference = pushing =
+sao - beans - barrier - designation - certificate - keep -
+verde ; result / eyes - innovations / sf / broader = tex ,
+consider - tasks - daisy / reward / suppliers . pull =
+administrative ; at - scripting ' zu / orders / queen . swim
+/ sequences . hp = intelligent , packard - how ; junior ;
+vary / resist = lightning / vertical - region - ambien -
+afghanistan - raid - absence -</text>
+    </lesson>
+    <lesson>
+    <id>{53c855a8-a570-4ad2-bab4-c94d9d4e1061}</id>
+    <title>Lesson 18 - ABCDEFGHIJKLMNOPQRSTUVWXYZ</title>
+    <newCharacters>ABCDEFGHIJKLMNOPQRSTUVWXYZ</newCharacters>
+    <text>Yahoo Lookup Nasdaq ; Expects Aud Exterior , Burner Que Baby
+/ In Handed Treat - Usage Zshops Options = Wake Reviews
+Dressing = Restored Campaign Io ; Minor Ye Device / Habitat
+Distant Knows ' Toddler Imposed Virtual . Validity Marco
+Kijiji = Prep Texts Helmet / Jesus Examined Numbers '
+Zimbabwe Epic Rhythm ; Limits Extra Keeping , Yes Dietary
+Aruba / Maryland Hu Yeah / Filter Jacob Vhs . Rapid Ky
+Bermuda . Belly Kingdom Donna / Harvard Assured Justice -
+Alleged Adam Counties . Quest Utility Village , Pulse Youth
+Logical , Uv Worn Writer - Villas Uganda Goals ' Judgment
+Lowest Ships ' Qualify Quite Scared . Old Lynn Yang -
+Percent Adjusted Offer . Ports Alarm Genetic = Liked Java
+Grammar ' Iceland Liable Vb = Trip Gonna Bryan . Young
+Shorter Fairly . Nations Trusts Condos ' Lighting Watt Ko -
+Tube Start Zdnet . Hazards Oo Zoloft - Biblical Intimate
+Flashing / Are Quizzes Inf ; Oakland Boots Name - Unlikely
+Gmc Yea ; Climbing Kingston Useful ; Griffin Granted Inside
+- Xp Worm Suburban</text>
+    </lesson>
+    <lesson>
+    <id>{e25fefcf-6092-43ef-9783-bc3fc8c34efa}</id>
+    <title>Lesson 19 - []</title>
+    <newCharacters>[]</newCharacters>
+    <text>Warrior [ represents ] Proposals . walking ; Boards .
+Organize ] Jason ] Sells ] highest ] Baseline - Technology ]
+Profile [ Enemy = employ ' audi - mpg ] Bulgarian . Stolen ;
+preferred ] Rap [ charging = surge / germany , Input [ newly
+[ tf [ Delayed [ competent [ Translated ] poland [
+Modification - engaging . involves ] Gonna ] kay ]
+Responding [ Cards / peterson [ Mainly [ Velvet ] silent ]
+held = protection = cleaner , cap [ Alot [ gba - where ;
+observations ] rank [ No - hollow ' firms ; welfare ]
+anonymous - Pan [ Theology ] namely ] north ] Producing [
+canberra ] Aim , Induced = Le ] Grande [ bunch [ brought ]
+Fifth ; Ordinance / Ddr / Generation ] Castle [ nirvana ]
+arkansas , compete . Everybody / Captain ] hypothesis ,
+Julian ; Nd . Zoom ' fund [ hydrocodone [ congress [
+Stockholm [ Tend [ Jon = Mate ; stored ; Slip [ tue ]
+Metallic / accredited [ picking [ Fact ] belize , former ]
+Potter [ nothing , Intervention . Presence [ leader ] Choose
+[ Install ] Casino . wheels ]</text>
+    </lesson>
+    <lesson>
+    <id>{d68d6b5b-d6ad-484f-b43c-64cff0fd7b79}</id>
+    <title>Lesson 20 - ,.</title>
+    <newCharacters>,.</newCharacters>
+    <text>es ] Hear. Edit, Pgp ' spaces, beach [ Simply [ Lodge -
+Board, declare - Bench, Gmt, fri. Abroad. Prints, Query ,
+maybe, side. laser / Corn. Involve / sic. grande, Toy '
+Friday, Slim, wma, kim. Clean. signup. reel. Ge, qualify.
+Durham - voting ] Blah, bare = gras . Typical. Craps, change
+' Estate. Ribbon. bronze, likely. bride. Initial, Latvia '
+Tm, Outlook / julie. Inquire, brick, Cubic. Venice [ Cost.
+Proceed ; Police, Hwy ; monday, Gabriel = Feeds. Rand,
+events - Return, Joel ; Helpful ' Moon, lives. cork . Waiver
+] Join ] replica ] Throws. Mia. Pass. Avg. Invited ; Healing
+] possess [ Density. army, lou, Packard, Edgar, combo.
+comedy [ piece = Sperm / Oxide. Angola. Retro, Classes.
+blues, Ist. ware, Damages. winter. unified. helmet, rows .
+pasta ' Hung. evil, Mental, double, husband = Agree . Angry.
+fitting. powell. Eve - fence. Destroy, surfing / kit. Len .
+Centres, over. ireland ; Hoped, Boston ' Avatar. Lambda -
+Inner, Defend , listen, Region / attack, Except = cad.
+thrown.</text>
+    </lesson>
+    <lesson>
+    <id>{505dea8a-290b-4f26-9b13-c4477110395b}</id>
+    <title>Lesson 21 - :'</title>
+    <newCharacters>:'</newCharacters>
+    <text>Mixed' beta 'Topics, album: Files: Sector / Assist. Main -
+bidding 'shoes [ Priced = Marsh' Nano [ ibm. Patrol [
+Passive 'Pk: pursuit' hilton 'Casual = Ni' Walnut. pierre:
+per - Ugly. Wp 'night 'muscles: Assume 'forge ; already:
+reforms: dental - succeed ' battle 'acts. Sitemap - Sandy:
+Guide 'Army: Randy: pa: Lite 'Aj: Ever: Shops [ Screw'
+webcast: breed: cu ] Altered ' dt [ dialog ] ef: unlike
+'canvas: eat / Ban: dublin: hand: Norfolk' Voip, Papers
+'Halo 'inquiry 'quiz' Visits 'Monkey: Hq' Austria. Task:
+realize' onion: cancer ] Prior [ Ag: Yet: goals ' Book'
+effects: tent: Spank' shot = Tanks / to 'fi ' Cc, sin:
+Capitol ; paths' warner' laden: image: psi' Chronic: unless:
+Midi' March. Stops 'frozen: Greatly 'ea' Tigers' private'
+Clients 'Climb / kijiji: chevy: largely ] Layer 'July,
+linked' not' Club 'nudist: Jon 'Sandra = decimal: Return
+'Bo' humor' Amazon 'Easily, Ranked: overall: Sport: lodging'
+Witch ; Theme: deposit: abuse: Kitty: jimmy 'assumes
+'Swedish: sure ; Israeli:</text>
+    </lesson>
+    <lesson>
+    <id>{da5d804f-030a-4f82-ab94-403bcc960ec0}</id>
+    <title>Lesson 22 - ?!</title>
+    <newCharacters>?!</newCharacters>
+    <text>Excuse! Fought = kyle! Vic: Holder 'guided! Reply ; Morgan?
+Arnold? Cleared? Wax? empty, field. palm? murray, Violent?
+Casey! Clouds! breaks = Stats? va! diet - Horse? shapes?
+Crown? anyway! adams? Irish? Isa, Holds? Hottest = abraham'
+marker, Pioneer: plenty? museums? Banking? nail, issue!
+Easier ] jp! Flows! irc / omega / nascar! Grab! People!
+Chain? Five! Lo 'Dressed? Errors? Insured! North! scripts!
+Ian. lesser. steps? paths! Metal! se! soil' setting! Basics!
+eco? Helena [ kde [ decline' energy? batman! tires! roger:
+H! Ups! analyze: Denied - finest / Digit? flat! slides?
+major! mailto! Webcast! Gossip? Solo ; subtle ; seeing!
+vessels? sql! wto? Done [ Dot? Len! gi? lead ; Byte - cad [
+Ye? Moon. deadly - soup! Donors? sixth! Focus? Stores? soft?
+the! Monica' Chase? little. erotica. Ram / maria? Lovers?
+Kinds ] ranch! Vip? Written! Diary ] Current? Custody = mia!
+ka? Boulder - Mistake? stewart? Led! butler? count =
+dresses, tone = pushed? Shower ; ebony! tend? choices!
+cooling!</text>
+    </lesson>
+    <lesson>
+    <id>{293f1ee8-ee12-4651-a8be-864a15220bde}</id>
+    <title>Lesson 23 - ";</title>
+    <newCharacters>";</newCharacters>
+    <text>lucia "clear; stating" Washer! Colon" either, shelf "review"
+ment: zoloft "roberts; Enlarge" Nsw 'visit; Span "Screw; su;
+early / liberty "battery' reader, jd. repairs; newbie"
+Asylum" fred; Counts; sys! ka; er; hey! beer" Rom 'lawsuit;
+Kiss" Themes "Traffic; ill; Career ; neo "hose = Singh
+"Html" soft. Tried "Alabama; Mapping; Fail: Depends. Bios [
+Bag" Radical ] ie; canada [ False "breath: Chick "Elite;
+french? Dd" founded - catch; Latinas; lite! Studied; shaped;
+appeals" Bedford "Oct; gift" Format" Lottery; Walter" Nodes:
+Webcam "carroll; Feet" readers [ Treat; prefers / file.
+Jersey; Rio ] Pit / observe "yang; Lamp ; targets; Falls;
+cliff "ate ] Helmet ; Join; Sans" Plus; Optical "leading"
+Lib; Home [ Wings" hb [ Taken" fl "spots; sl "Sites? Robin"
+Solving; Cnn "avenue; one "beliefs "draw "geneva, acids;
+Hotels" loving, Rage" Issued, Immune; burst; thirty;
+folders; novel, Formula "Pickup' vocal; Parish" Marble
+"socket; ash = Stuart / ee. Stereo; Ranger ] oem ; sensor -
+Asia</text>
+    </lesson>
+    <lesson>
+    <id>{3bca9547-a3a7-468f-af9a-486b651bfda2}</id>
+    <title>Lesson 24 - @-</title>
+    <newCharacters>@-</newCharacters>
+    <text>winners - diana ] uri@ editor / loves@ nursing - Nelson -
+none - Fw@ engaged; Waiting 'scuba: arnold@ Updates -
+Trigger. wv@ grey - Pounds@ keith "welcome - Jvc@ dense@
+treo; Chi@ Claims - Pure / patrol - wheat - diff - Habitat@
+Oe - log [ reject@ durable, howard@ next. Headers / Tv -
+Asks [ Phd - Jamie' treaty - insight. Nigeria - pubmed -
+guns; antonio = conduct@ seminar - Seattle@ wb@ Grants -
+Forms - waters - Timely 'Central@ Sharing - er - Mature -
+wallace - Proc@ Wage - minds - Norm@ Wagon; Dicke [ Triple -
+conf ] Refer@ cleanup - Sofa - Passed / ng! George@ Surge@
+Hollow - advisor - potter@ tumor? true@ facts = warning.
+mardi. ought, he! ball - Receive / Modes? Tattoo - Gods?
+deviant@ lab 'Refine@ span - Tanks@ seen" socket@ jeremy:
+Metric - nasty ] workers@ Naughty - less - involve@ Kitty"
+nba - sh - Congo - Men@ Muslims@ Exit! Cp - treat@ expired@
+noon - Spies - passage - Third@ Know = collect@ falls -
+Paris - Circuit@ thats@ Pendant@ remain@ fathers ] Purse,
+Sam "votes@</text>
+    </lesson>
+    <lesson>
+    <id>{b43a26c8-15de-4f00-8cf5-0a3e200ffd4f}</id>
+    <title>Lesson 25 - 10</title>
+    <newCharacters>10</newCharacters>
+    <text>011 Driven 100 Goal 100 legends 01 Hybrid 11 Struct 000
+Agrees 110 expired 10 live 001 Bangkok 101 kinase 101 left
+001 Irc 001 gg 00 dept 11 Spend 100 Still 111 Gone 110
+Classes 101 digital 001 Staying 110 teens 1 mtv 10 Domains
+111 skilled 1 Turkey 0 Plastic 101 enabled 011 engine 111
+placed 110 Tb 001 Moves 101 Thereby 00 Boat 011 gently 111
+oak 101 Deeply 1 acquire 011 Wood 111 Blood 00 Wars 001 Tile
+100 St 0 aware 000 ru 001 cells 101 quilt 111 Smith 01 non
+00 Font 10 Mounted 001 Scenic 00 Vt 111 router 011 bingo 1
+Fence 00 minute 010 Harvest 100 rice 10 Mono 00 gas 010
+shift 00 Greatly 110 Lakes 0 melissa 01 Nations 00 Cart 001
+plains 011 Figured 1 write 000 rule 01 dying 100 denied 110
+lopez 1 ul 100 Server 10 Beef 00 robots 1 Britain 0 framing
+0 Payroll 0 climate 011 load 1 press 010 Nato 110 Bon 1 Pf
+001 Attack 010 Sub 100 chapter 010 Douglas 01 Had 11 friends
+1 S 100 shakira 011 Essays 11 Equity 000 Gallery 0 Draws 01
+Arab 111 mesa 00 Likes 00 Perhaps 0 partial 000 cook 011</text>
+    </lesson>
+    <lesson>
+    <id>{9f653714-d7d0-49d9-89f7-0ca40c67ecf8}</id>
+    <title>Lesson 26 - 29</title>
+    <newCharacters>29</newCharacters>
+    <text>122 Aspect 22 chrome 091 stocks 220 Harmony 121 America 92
+Usr 921 skiing 220 Service 929 Heights 112 an 129 Cult 22
+success 29 Game 112 afraid 992 Cruz 209 aye 002 Layer 21
+linked 020 essays 21 unknown 92 Faster 99 wright 929 hilton
+921 Liver 20 jean 220 Sword 921 Tough 200 Candy 991 Victim
+091 Roger 990 rice 999 content 91 Equal 02 Mx 992 manor 120
+amd 2 Wheels 911 stretch 92 schemes 091 forty 292 Cr 912
+season 299 Party 910 leu 190 Horror 210 sku 20 Angeles 911
+largest 9 jp 122 played 009 brown 901 Jumping 220 Superb 220
+Finally 190 signs 191 Infant 009 Mating 129 Effects 202 mike
+201 Adam 192 trades 290 Product 991 cruise 200 bowling 210
+Faced 102 retired 220 fifth 119 Harvest 90 Mean 202 Studios
+020 Found 9 Karl 900 feed 292 Jeffrey 909 choir 99 latina
+020 ho 291 Firefox 12 reunion 90 jvc 009 Hop 21 fluid 901
+busy 212 Greek 112 Premium 022 Xerox 009 ka 092 una 200
+Usual 112 Sv 929 doll 991 Hose 909 Sorry 920 Lemon 999 asus
+019 Tanks 920 Empty 02 Beverly 092 monitor 219 M 910 pond</text>
+    </lesson>
+    <lesson>
+    <id>{63531cd7-17d4-44cb-9eb5-b6c707f90962}</id>
+    <title>Lesson 27 - 38</title>
+    <newCharacters>38</newCharacters>
+    <text>28 du 193 master 829 Pm 013 Player 939 ok 938 Cas 181 newest
+883 nevada 93 Stomach 393 Regions 310 will 982 vb 882 Uri
+993 least 812 toward 988 janet 928 Friends 138 Signals 332
+Wrong 083 bearing 138 alive 321 annex 130 buffalo 81 Hairy
+813 Groups 008 poison 392 dist 829 Grow 181 Sd 080 Tour 883
+hopkins 383 stuart 013 Andale 83 Kde 939 counted 821 uncle
+08 Treaty 939 Able 239 Perth 32 Saving 139 auburn 329
+Century 038 run 139 intro 188 herald 989 incl 8 Teenage 391
+loved 382 Musical 380 horizon 980 Fails 321 ma 829 Rh 389
+spa 189 Takes 239 rebates 322 editors 233 Moscow 038 Clinton
+880 harold 801 hacker 080 shapes 038 Safe 080 denmark 033
+bald 833 operate 213 Avatar 189 flower 809 speaks 028 away
+889 colors 882 Therapy 318 Startup 81 Dosage 893 Shine 289
+World 183 Box 892 Push 809 ncaa 811 call 331 centres 082
+yacht 183 Rank 113 active 233 Mel 318 Blvd 320 Meaning 232
+Pn 33 carmen 13 Postage 38 Arabic 3 Eternal 23 hang 932
+Indie 081 fired 223 ice 231 modem 830 Society 038 Repairs 80</text>
+    </lesson>
+    <lesson>
+    <id>{532255a2-3268-4f60-892c-143b75f531d9}</id>
+    <title>Lesson 28 - 47</title>
+    <newCharacters>47</newCharacters>
+    <text>840 mac 948 fifth 772 Adware 187 drinks 718 Amd 478 dad 371
+Uh 072 Mint 374 boy 907 el 34 repeat 944 scuba 114 Gain 178
+pro 327 Bg 472 Stats 943 Steps 343 shoot 708 Aids 420 verbal
+072 mark 997 Approve 297 Studies 087 Located 014 mining 814
+gregory 049 selling 37 bullet 877 Firefox 243 Charges 097
+carroll 37 Cnn 287 Jews 114 poison 847 distant 997 Fraser
+408 Tables 478 Orlando 780 Tobacco 948 bryant 737 sa 27
+shine 730 techno 273 Rotary 217 Winds 904 Broker 414 dvds
+814 banana 780 ad 709 Mesa 241 Chains 848 facing 373 Funds
+78 harm 739 ebay 44 Waiting 779 kevin 444 growth 140 specify
+997 Strikes 149 Sony 7 Wanting 314 county 914 geneva 37
+images 41 aqua 187 heater 173 dying 294 rouge 877 Begin 792
+project 217 Ant 384 Pcs 017 Invest 272 Italic 247 Origins
+439 Heated 171 would 410 Timber 701 Closest 790 Yemen 79
+Sean 340 lynn 984 Aspect 873 nascar 781 dos 24 fist 447
+Thought 702 Mtv 40 mi 237 sans 43 Ours 349 Gazette 410 Depot
+441 Laptop 798 Billing 78 Fantasy 370 Stages 942 arena 704</text>
+    </lesson>
+    <lesson>
+    <id>{d6ac7683-b18e-4c5e-8366-e98732d99abf}</id>
+    <title>Lesson 29 - 56</title>
+    <newCharacters>56</newCharacters>
+    <text>617 fonts 360 tampa 500 Recipes 698 Imposed 245 Surgeon 875
+minutes 257 pod 005 Shown 629 grounds 594 Pie 534 Extra 581
+Clock 63 wing 815 coupons 575 twist 51 Dome 166 turning 515
+safety 146 Na 751 lucy 305 Academy 167 Voted 62 Sku 566 fr
+168 Prague 598 arc 608 Verizon 558 Lobby 450 stayed 096 Pf
+661 died 649 Legends 369 combat 542 poem 64 Span 536 flu 538
+action 867 Devon 571 Dna 632 Daddy 715 boom 415 lease 642
+impact 527 seems 683 skin 640 likely 656 persons 126 Theorem
+598 boolean 476 Bell 605 However 796 Succeed 406 Wave 586
+Spoken 95 reports 045 nation 451 Dialog 166 inch 682 Brother
+336 growing 976 surfing 611 carlos 851 Adopt 69 Period 736
+Atom 153 Realtor 166 funky 826 Gb 26 Aware 677 current 264
+wonder 519 follow 705 Fame 406 Bomb 601 Birth 671 Often 511
+itunes 752 packets 160 Proof 336 Zshops 523 Earn 62 Phpbb
+625 invite 446 Annex 626 Usa 679 Nearby 86 beneath 624
+Robust 156 beauty 964 m 616 legal 163 Folk 746 Crops 05
+burns 851 puzzles 454 solomon 495 Margin 445 genius 589</text>
+    </lesson>
+    <lesson>
+    <id>{1f1cc3bf-c6b2-4f36-8cee-18763f2cb75d}</id>
+    <title>Lesson 30 - All previous characters</title>
+    <newCharacters></newCharacters>
+    <text>849 Boots 639 summary 496 Caroline 121 Pet. 863 adoption 45
+Portrait 360 ] 404 Letting 841 z 47 Carolina 409 / 184
+handhelds 926 Duty 244 Chevrolet 251 ] 02 prep 598 cool 995
+Receives 300 Wagon, 140 transform 810 selected 688 Wonder:
+511 teacher 111 Ye 422 Tagged" 738 Clarity 178 Limitations
+48 Detective. 689 melissa 618 Guest 081 [ 231 Reaching 579
+separately 157 Fbi 526 [ 627 Among 82 admission 152 Beds 333
+- 828 mothers 633 ultimate 159 creature 647 Initiated: 645
+Gp 705 E 240 [ 463 Individual 714 Ampland 780 Cia 738 - 182
+Doing 955 safety 041 Decorating 750 ] 588 Korea 021 Must 236
+Firefox 414 track@ 027 cinema 962 sign 3 = 162 Lopez 667
+inquiries 584 "nose 404 bowling 680 plane 556 plastic 810 ]
+330 Mold 235 Pediatric 588 Release 93 Their. 94 hills 278
+forecast 234 = 527 struct 701 sunshine 381 worth 077 phases;
+800 wifi 768 Refund 503 = 291 static 80 eight 21 Herein 489
+/ 942 usr 544 Scope 542 "jump 980 Unauthorized 795 Fare 716
+ui 565 became@ 881 Diversity 928 Soonest 259 = 670
+Modification 050 counseling 742 "lasting 053 warrior 72 Msn
+944 Salvation 708 substitute' 972 Ne 109 Diesel 971
+downloaded, 205 Sciences 83 platinum 528 Baptist. 622 Meat
+775 gun 102 = 123 accused 557 Mine 665 having 022 Jay! 160
+Initially 03 Das 038 ] 050 Displaying 094 Si 559 plant 85 -
+228 Dayton 443 Mb 77 designated 358 enemy, 755 Tanks 072
+telecharger 519 Amp" 717 Transcript 676 'Dx 765 died 946 Ix
+272 Throwing 701 markers, 558 infringement 477 Clouds 945
+or; 25 Lover 420 Metro 18 month! 478 triple 908 Rhythm 927
+Effects! 18 Manufactured 921 'describing 766 brunei 575
+applies 104 Mailing 867 Rental, 355 siemens 373 Tuning 495
+Therapeutic. 88 replacement 497 Marilyn 697 automobiles! 072
+trademark 060 Provide 543 informative' 00 gs 672 Reservation
+832 = 031 Explanation 133 Taste 501 subscribers 580
+intervention: 752 Multi 972 courts 034 Upgrading! 178
+players 004 additionally 513 - 496 presently 572 investigate
+077 Limitation 728 [ 911 Editorials 396 Pipe 29
+Technological 615 Act?</text>
+    </lesson>
+    <lesson>
+    <id>{d3ffee6e-a908-4438-8212-f9afa64b805a}</id>
+    <title>Lesson 31 - abcdefghijklmnopqrstuvwxyz,.</title>
+    <newCharacters>abcdefghijklmnopqrstuvwxyz,.</newCharacters>
+    <text>649 Pets 632 shaft' 872 oasis. 769 Thumbnails: 528 uc, 770
+Anytime; 823 Micro, 95 = 445 gsm 400 heater. 176 mobiles,
+974 Ordering, 590 Sustainability. 906 Trend: 431 Windows.
+894 Vulnerability, 641 omissions. 930 jury, 670 Knitting;
+346 convenience. 038 "passenger? 151 subsequently 162
+prepared, 48 ] 568 Menu 921 Munich. 729 Sound, 038
+Completed. 032 procurement. 288 Composite. 006 abandoned.
+584 Recipe! 688 app. 479 Flame: 2 cooked. 762 attempt. 390
+appendix, 129 [ 096 Adjusted 398 gazette, 680 highland! 598
+thread, 185 Inclusive? 555 Misc. 168 / 979 harrison 93 [ 817
+Audi 657 notifications; 935 = 800 Essentially 673 vessel,
+452 failed. 755 Twisted. 588 Entered, 340 / 378 wet 096
+Analyzes. 984 - 515 network 686 signing, 095 Dining. 193
+Reviewed. 270 Expectations, 488 Frozen, 107 Binary" 110
+Competition. 465 Prix. 06 keyboard. 70 jersey, 675 Depends,
+352 Mit, 203 Yahoo. 170 failing' 781 - 84 working 291 drag,
+594 Costumes, 245 Vessels, 563 Nd, 854 Governmental, 094
+Purchase. 337</text>
+    </lesson>
+    <lesson>
+    <id>{d384625a-7d67-47d4-8c3a-f3c4555b6330}</id>
+    <title>Lesson 32 - ?!</title>
+    <newCharacters>?!</newCharacters>
+    <text>396 Hawaiian 43 Formula! 479 le! 9 Seven! 677 Vampire? 714
+General, 56 Alternate? 877 Coat? 016 Valuation? 284 ] 222
+Colin 142 Pills! 11 brandon? 792 Baskets? 845 Substantially"
+537 Viewpicture! 241 archive! 805 dependent; 273 nelson! 766
+Expansys! 753 predicted! 787 cod? 979 definitely! 846
+Committee? 646 Dome? 927 perform! 362 Millions? 794
+observed! 096 Collected? 70 Did? 211 Developers? 505
+Prophet! 35 retailer! 823 Securities! 287 Absolutely? 151
+san? 205 jade? 09 ] 427 uruguay 814 [ 423 Projection 510
+festival! 31 generated! 284 Valued. 073 codes! 766 sh? 815
+Considering? 366 harley, 364 replaced! 371 catalog, 099
+goods? 872 Leads? 84 Creation! 561 Pe! 540 Accountability?
+623 West? 392 Rare. 242 particular? 082 enclosure? 238
+higher: 385 / 087 volume 040 African! 258 ] 899 Cruises 280
+Promises! 648 gis? 38 "sql? 451 Bachelor 723 Proudly@ 126
+Taxi! 506 causing? 557 Play? 698 Um' 294 Radios! 56
+Compounds? 609 Rates! 372 investigated! 640 Promotes; 444
+continued? 576 ends! 891</text>
+    </lesson>
+    <lesson>
+    <id>{9ccd1b74-297e-404b-82ab-7da86c97f1a2}</id>
+    <title>Lesson 33 - :$</title>
+    <newCharacters>:$</newCharacters>
+    <text>819 viral 66 $ 847 Compact 766 ] 641 Euros 032 thumb: 311 $
+498 Album 121 = 674 Switches 606 Beneath: 699 discovery! 368
+/ 926 To 971 Euro: 438 $ 732 renew 998 malaysia: 275
+included: 5 sep: 699 Volkswagen: 970 $ 841 Occurring 104
+Riverside@ 147 Linear: 127 - 891 Dish 094 $ 739 Merger 346
+jury: 575 $ 408 Expanded 610 $ 861 Bother 119 $ 639
+Experiments 447 $ 495 Flame 647 leeds: 651 brooks. 051
+killing: 200 $ 695 thesaurus 214 $ 833 Resulting 13 $ 133
+differently 317 $ 222 correspondence 164 females: 33 $ 429
+Silence 170 $ 066 "Weekend 809 charts 964 Birth. 129
+History: 852 Express@ 564 $ 581 Mix 069 Prescription: 43
+Usgs: 047 $ 630 minus 465 Together" 263 Decor, 189 featured'
+4 $ 147 ideal 222 ] 633 humidity 333 Circuit, 3 fabrics: 61
+sip: 411 $ 766 Baptist 429 $ 306 held 422 $ 255 Interior 489
+$ 013 Swing 835 earnings. 92 torture: 290 $ 994 wine 940
+danger: 973 $ 227 Copper 160 $ 31 crossing 644 $ 051
+colombia 57 Existed. 677 Electoral: 816 Chan: 938 [ 18
+Hotels 14 largely: 270 Tap:</text>
+    </lesson>
+    <lesson>
+    <id>{b635b8de-9a33-40f2-aebc-084052eb9f79}</id>
+    <title>Lesson 34 - "*</title>
+    <newCharacters>"*</newCharacters>
+    <text>774 cancel 557 Possess, 958 Ist; 491 * 924 "Robot 110 apt
+188 "christian. 738 zip 626 "binding! 627 numeric 610 globe"
+662 concentration, 432 pdas" 055 ultram" 42 Primary" 727 *
+605 rhode 857 $ 992 Ks 443 * 341 summit 264 substantially@
+465 Paper? 762 techrepublic" 446 incidence" 883 [ 801 lit
+039 * 897 "crops 595 funeral 257 / 790 Arc 671 * 066 "driver
+96 Implied 82 * 39 attempting 14 * 204 child 265 * 722 Ch
+399 * 019 script 690 ] 189 "odds 586 "recruitment 134 Peer
+833 = 224 Dj 946 Rick" 47 Refine! 904 * 357 transmitted 563
+- 423 Treated 628 / 072 Mouth 20 ] 133 scientist 400 Ada"
+371 Disorder: 60 delicious@ 051 * 327 Dude 413 "charity: 960
+finished 281 cameron" 476 / 311 Advise 668 "Characteristic:
+39 "Brandon 634 Bay 931 stop" 849 * 499 invitation 035 = 856
+seat 778 Expand: 146 mrna, 409 * 805 processors 534 * 134
+Circular 219 * 880 Degree 634 Struggle" 887 * 834 bigger 808
+* 713 Spokesman 587 seven" 582 School, 537 * 980 Reaches 252
+"lifetime. 24 processing 405 "Riverside: 763</text>
+    </lesson>
+    <lesson>
+    <id>{6d612640-4aa2-4709-b702-f1f216c90639}</id>
+    <title>Lesson 35 - ()</title>
+    <newCharacters>()</newCharacters>
+    <text>879 modification 375 jan) 625 $ 626 cave 738 vector: 635 -
+431 Ruled 75 september: 288 - 693 Inspector 238 / 828 (Jack
+320 (Yukon 650 psi 825 Image) 474 paragraphs, 145 (gsm! 44
+(raymond 358 Rocks 448 ] 698 gods 997 (Looked; 874 (tall 149
+(Iceland 005 Limitation 354 Iv) 474 (lung) 292 charlotte 835
+fees! 703 (inquire" 727 topics 160 escorts) 992 "forests)
+517 processing 003 (sri) 78 (tea 400 monroe 877 consultants.
+697 Characteristics. 101 glossary" 226 happiness) 602
+Cradle' 319 Toxic, 492 (Funk) 983 Implied 363 (collapse: 129
+option 533 union) 370 Captured) 943 Fc@ 286 (Typical; 782
+(worker 067 "ad 830 (photos 146 (Nasa 410 Handles 26 / 590
+Usb 29 replaced) 815 Mas) 357 - 926 actor 198 dj, 656 wifi)
+738 [ 909 Nursing 559 hardware) 975 but: 888 (From) 596
+observed 087 animal) 890 = 989 (badly 127 examples 570
+(Date? 625 democratic 82 Generated) 496 (bridge) 444 Collins
+126 Reno) 922 (Shows" 24 Approval 504 personalized) 368
+http@ 965 (classifieds; 759 Deal 964 Personality? 004 erp)</text>
+    </lesson>
+    <lesson>
+    <id>{2b1c85f9-cf1e-4e01-b852-fe9e8728404d}</id>
+    <title>Lesson 36 - []</title>
+    <newCharacters>[]</newCharacters>
+    <text>584 Width 81 dimension] 302 (Ringtones] 51 'plain 694
+[filter 523 Become 053 Plc) 405 * 452 fathers 090 [Urls] 558
+[julie 46 Gain 209 [Half! 034 [Verde 249 Nice 988 Gst, 930
+Plane] 441 Company! 458 = 571 Locator 268 Now] 976 Powder]
+35 [Spatial. 382 Cap 191 Vietnam: 054 $ 869 Facing 296
+[american] 161 von 894 properly] 180 [monte] 176 Priority
+726 [Office: 904 areas 548 * 043 Aggregate 888 [ 264 affair
+988 disciplinary] 449 Chapel" 444 talks, 213 erik? 690
+Preceding] 748 [instructions" 359 waste 621 Selling! 155
+pee] 076 Accepting] 614 ] 865 [shorts 433 Sprint 518
+Subscribe] 743 First] 328 [ 658 Democracy 65 Sets) 312
+[typical] 778 (velvet 647 Grid 625 [Hung] 822 figure 757
+[Cheap] 643 exit 510 ] 437 beautifully 381 Preserve] 270
+Puerto] 747 [Noble: 683 foundations 327 ws? 508 welsh] 282 $
+038 [subsequent 267 [Magazine 272 Gross 971 Suzuki: 15
+[Exercise] 790 [Crisis 476 Li 894 / 519 Digit 268 blanket]
+601 Peers] 212 wanting] 360 Described? 011 [ 132 Basic 748
+eggs. 712 cdna] 612 [Tm]</text>
+    </lesson>
+    <lesson>
+    <id>{e17892ce-7a49-4f24-b592-65c87636f0b6}</id>
+    <title>Lesson 37 - {}</title>
+    <newCharacters>{}</newCharacters>
+    <text>612 {news 278 {notices 189 {ave 341 {docs 888 {knit 289 once
+316 judgment) 206 Tackle: 707 converter: 888 rolled} 648
+{miles} 90 on 72 Cases} 29 {Studies] 06 Pokemon 458
+Unlikely} 179 * 7 Bank 034 = 864 rights 106 {resume} 347
+empty 168 Membership} 78 cm} 175 Board} 630 {Member} 661
+consequently 987 newton} 708 fruit} 065 {Belgium} 324
+Creator 853 su' 503 {boolean} 858 assessment 803 / 470
+manuals 305 Involvement} 677 - 39 sig 388 Genetic} 300 Pork}
+563 {Fought, 055 commonwealth 677 deficit} 315 guidelines}
+011 means, 024 rehab. 190 = 662 {Shoes 604 {Twiki 731 Eos
+482 {Recorders, 664 motorcycles 014 $ 4 {Dover 140
+{Lightweight 244 Frost 676 Organizational! 707 fort; 587
+sharp} 73 maximize} 240 Status} 131 spy} 053 {slowly} 386
+Adapter 276 internet} 741 Internationally} 40 {Ro} 110
+{Commissioners 304 {prot 10 {updating 992 "dictionary 931
+lens 009 reliable! 627 Housing] 956 mississippi} 843 Swiss}
+0 {Est? 72 joe 761 (adaptive} 845 Colony 897 Washington} 691
+{Ricky} 907 {choice 460</text>
+    </lesson>
+    <lesson>
+    <id>{270e3a6d-a32e-4093-b455-c9abe6a1a407}</id>
+    <title>Lesson 38 - +&amp;</title>
+    <newCharacters>+&amp;</newCharacters>
+    <text>768 Remark 883 &amp; 845 green 219 + 282 succeed 710 &amp; 054 Guy
+331 &amp; 385 Jesse 776 + 58 workstation 65 Alan@ 266 (Boat? 505
+speaks 864 &amp; 962 Meditation 92 + 731 Solutions 140 &amp; 531
+Common 374 &amp; 502 Zoning 58 &amp; 533 Alice 556 Carnival! 042 +
+073 Why 223 + 881 "weight 074 by 772 / 380 "Drilling 148
+recognize 15 + 119 Oliver 987 &amp; 042 [position 762 assistant
+652 + 508 keep 453 + 588 peripheral 035 + 145 written 552 +
+418 cute 484 &amp; 739 donations 214 = 606 Successful 106 puts.
+305 &amp; 19 Automobile 389 &amp; 889 passing 613 &amp; 381 making 026
+Ridge" 786 + 117 relaxation 046 + 469 military 081 &amp; 429 Msg
+439 changed) 562 bright? 359 &amp; 640 marsh 121 + 97 securely
+197 Soc, 9 + 688 ed 892 &amp; 028 Supervisors 607 &amp; 762 Social
+013 &amp; 200 gourmet 155 &amp; 540 Outstanding 825 + 058 vietnam
+853 + 694 trinidad 901 Silver? 630 &amp; 922 prostate 751 cry!
+51 &amp; 704 texas 95 Tie] 758 exposure} 72 &amp; 525 kings 253
+Transcript! 631 * 535 Thin 021 + 297 Promoting 923 &amp; 530
+suddenly 387 &amp; 909 Infected 876 &amp; 414 Front 408 &amp; 009</text>
+    </lesson>
+    <lesson>
+    <id>{f5ed60e1-61d9-43b6-b3df-acabe34a50dc}</id>
+    <title>Lesson 39 - =~</title>
+    <newCharacters>=~</newCharacters>
+    <text>443 B 406 = 027 Loaded 405 = 041 joan 292 ~ 911 incentives
+468 / 332 Indian 277 ~ 866 {Ing 612 taxi 389 = 336
+Conjunction 594 ~ 205 "trend 820 legend 083 ~ 091 Mouth 405
+Wired. 751 ~ 752 Afternoon 354 = 441 bw 269 = 977 Emissions
+447 = 621 Phoenix 547 = 957 dj 636 ~ 233 art 886 = 70 filter
+537 ~ 864 Squad 52 ~ 301 enabling 84 = 768 clinics 917
+authority] 637 jacksonville" 932 &amp; 131 reasonable 595 = 428
+"feeding 504 Strip 239 ~ 490 Builds 625 anna} 84 acc, 578 =
+820 Triple 150 ~ 458 Reasonably 894 ~ 558 Bill 042 ~ 136
+Identification 824 = 870 comments 361 = 53 costumes 970 ~
+549 Madrid 774 ~ 604 powerseller 773 ~ 506 invoice 951 = 059
+advances 262 ~ 345 ss 955 = 498 reload 698 * 549 activated
+226 = 743 degrees 267 + 098 Short 032 = 768 nextel 135 ~ 34
+accreditation 435 = 897 held 276 ~ 718 reports 16 &amp; 828 Plc
+140 ~ 773 indonesian 397 = 835 w 192 ~ 61 employees 237 = 57
+Given 756 ~ 271 Resulting 095 ~ 715 rabbit 119 ~ 134
+boutique 822 ~ 860 guess 368 Target: 18 Nuclear! 731 ~ 342</text>
+    </lesson>
+    <lesson>
+    <id>{8eb74409-6f65-4d72-a134-b35ab0128dfc}</id>
+    <title>Lesson 40 - `\</title>
+    <newCharacters>`\</newCharacters>
+    <text>91 Node 60 ~ 553 tcp 530 Literature` 692 ringtones` 36
+garmin` 504 Noise` 529 Quebec. 376 + 350 `Flavor 256 Cindy
+388 Free` 831 volleyball` 645 Dee` 514 \ 902 Null 843 `Tan:
+278 trinity 21 \ 675 Month 118 examinations, 445 `Advertise`
+453 Classics 614 extraction] 994 `Ext! 990 Mentor 398 elect!
+020 * 242 `market 271 `Rg 30 `Noon 557 southampton 537 \ 607
+define 192 \ 478 Medications 064 \ 06 Exchanges 693 * 690
+hospital 434 \ 824 Do 442 + 480 `wallet 610 Nominations 136
+\ 328 gotten 180 `Peas? 563 Penetration 074 dream; 132
+`Wizard. 156 aware 288 \ 490 `urge 311 Mounts 664 Netscape?
+891 Www` 767 \ 956 Determines 852 \ 62 awards 156 \ 626
+producer 337 \ 388 Til 036 acer` 277 Furniture) 483 salem`
+620 `Producers? 076 pencil 790 = 716 `Calculated 587 capable
+7 ~ 086 Pi 779 warner` 66 Site) 321 heights! 404 Mart: 46
+italic` 084 {Horse" 454 Mastercard 222 \ 363 `anyway 646
+`Twin 730 composite 02 \ 82 effective 28 Floppy} 260 [White`
+777 `courtesy 994 Column 093 \ 812 Bell 402 \ 82 pokemon</text>
+    </lesson>
+    <lesson>
+    <id>{97965f3a-757d-480c-94a8-1cadf1caed2a}</id>
+    <title>Lesson 41 - /@</title>
+    <newCharacters>/@</newCharacters>
+    <text>348 Knows 260 Carries@ 472 mod@ 878 contact, 414 toilet@ 233
+$ 9 lane 96 draw@ 363 / 296 Real 844 / 139 grew 627 / 656
+Being 626 / 957 Met 640 cleaners} 508 Unions@ 140 / 447
+remark 220 double? 37 Tear, 612 / 900 Czech 824 shield@ 899
+/ 987 directed 593 / 186 Alternatives 518 Illustrated@ 149 &amp;
+737 Portsmouth 989 / 000 ralph 016 / 71 Restrict 230
+Budgets@ 464 / 933 Justify 00 dare. 410 / 443 Exceptions 616
+Journal@ 26 / 3 librarian 896 / 509 Dj 808 "annie@ 571
+{ebooks 566 Opportunity 763 - 387 logos 966 Reason; 698
+banking@ 409 / 192 solo 034 susan@ 928 en] 894 / 926
+compiled 774 / 854 Size 268 / 350 Barcelona 567 / 294 ef 154
+/ 821 Emma 821 jeans@ 570 managed@ 83 Holland" 840 public@
+306 preparation@ 190 university@ 877 / 254 {yeah 052 Pools
+89 / 36 vanilla 882 Testing@ 052 / 012 Hats 734 / 517
+Travels 005 activists@ 768 switched. 859 type@ 624 air@ 686
+- 373 factory 596 teaches@ 048 Appreciation@ 501 Seeking'
+841 inline@ 790 / 067 `triple 659 Websites 554 (post@ 726
+Explorer 293 nn@</text>
+    </lesson>
+    <lesson>
+    <id>{62d671aa-ca2b-4b30-9cc8-d1aab6bbe797}</id>
+    <title>Lesson 42 - ^;</title>
+    <newCharacters>^;</newCharacters>
+    <text>491 Coordinates 851 ^ 590 [nerve 749 [Coast 07 adrian 311
+Ic@ 987 Makers; 660 ^ 077 "Cpu 329 Wishlist 678 gl; 606
+Expectations: 645 rat; 459 ^ 984 folding 260 ^ 006 {madrid
+785 Press 501 Sacramento; 71 pine! 691 + 513 empirical 669
+eminem? 742 ^ 075 Be 437 ^ 186 Jean 805 blackberry` 917 ^
+162 Gst 65 \ 02 sox 039 Dsl) 550 Upper' 276 Fund: 392
+behavioral. 75 ^ 856 reduces 348 Notify; 331 ^ 025 sum 22 ^
+444 Sapphire 089 ^ 05 infection 600 ^ 883 Starsmerchant 459
+^ 046 {Elect 638 Stripes 420 - 895 Roughly 616 ^ 780
+reasonable 567 story; 565 carbon! 706 hold; 470 modem; 22
+Fed; 122 quilt: 674 regularly. 349 ^ 423 powerseller 553
+voluntary; 113 Spies; 692 ^ 003 filed 106 translation? 774
+Shipments; 288 Rpm" 107 Zero: 394 alberta; 325 ^ 891
+Approved 533 Packed" 299 Cocktail, 684 once; 141 ^ 831
+played 868 ~ 384 Shaved 712 parliament; 255 polished) 581 /
+771 (Singles 704 Learning 735 measures; 289 ^ 806 Driven 166
+Stays@ 625 Courtesy; 85 Texture; 535 ^ 585 Jesus 311 ^ 560
+(nightmare 194 Bl</text>
+    </lesson>
+    <lesson>
+    <id>{4d114eb7-4105-4b1b-8fe6-49ff2762807f}</id>
+    <title>Lesson 43 - %-</title>
+    <newCharacters>%-</newCharacters>
+    <text>310 Technician 237 - 151 (Cellular 960 sampling 956 - 771 kb
+659 - 529 proven 427 % 969 kent 458 % 01 color 236 - 024
+Discovered 629 punishment? 242 % 559 Biodiversity 245 % 095
+pursuit 910 - 552 Salmon 046 * 127 Loaded 092 % 132 white
+919 - 738 palmer 299 + 514 Seas 536 saying} 86 - 919
+striking 685 filing, 407 broadway! 006 - 714 'Edited 832 Mel
+955 % 047 poly 965 pricing; 169 - 205 wishing 141 % 526 Mm
+197 $ 714 ladies 317 - 520 legend 145 Streets. 1 ~ 801 Puppy
+770 % 946 worker 01 - 458 plains 765 &amp; 468 Popular 506 - 787
+Rn 527 % 670 Field 151 Blair@ 846 - 157 Defeat 445 millions.
+023 % 28 borders 37 - 622 Methods 931 - 248 positions 557 %
+203 filtering 164 % 733 willow 336 / 930 Speech 960 % 203
+Yet 931 - 980 Arcade 737 - 819 could 152 % 820 Fleece 777 %
+86 [Bookmark 652 Upc 428 + 277 Romance 609 $ 80 introducing
+2 - 83 Mins 036 - 517 detection 430 - 372 Seem 052 - 461
+microwave 505 Due] 694 % 131 solution 467 % 210 likelihood
+503 - 273 Readily 322 - 003 Gm 453 - 248 Provision</text>
+    </lesson>
+    <lesson>
+    <id>{4240de11-815c-42d5-9f15-e4bf4b28c81d}</id>
+    <title>Lesson 44 - #'</title>
+    <newCharacters>#'</newCharacters>
+    <text>156 governing 673 'link? 167 Steven 595 ~ 439 #Christians
+388 Skating 015 #Postcard' 251 'prerequisite 505 #deny 085
+Text 680 #rebel, 071 Rocks 550 #Husband' 240 #connections
+784 payments 845 Una, 533 {recommend' 825 #customized 690
+#Marie 422 thesis 586 #Reproduced; 50 vegas 852 'nitrogen'
+160 instructors 604 Settle@ 767 #phrase. 634 'afghanistan
+059 'resource 840 #st 201 higher 728 'Universities' 709
+relatively 52 #yemen) 387 'Commissioner 171 #obtain 862
+thesaurus 401 * 140 #blacks 37 pools 522 deal" 833 ~ 014
+'Dive 283 [fine 055 #Gathered 252 Stories 927 Be' 057 ^ 636
+'fotos 399 #Rebates 219 'Adjustment 621 provision 929
+#Straight' 737 "Staff 255 when 097 Oakland) 134 / 100
+#Basketball 549 #spent 745 herald 650 Alter: 83 'coupled?
+700 'Obligation 644 #mounts 095 #furthermore 802 Mirrors 359
+louis' 489 Acquisitions' 319 % 347 (Technique 005 Greensboro
+140 'V: 735 #critics 661 density 377 ict? 669 \ 639 Alex 985
+- 525 'Debate 443 #slides 578 Cincinnati 387 #key! 569
+Websites 006</text>
+    </lesson>
+    <lesson>
+    <id>{b3e02906-cb70-44e7-819b-bce7dd767c4f}</id>
+    <title>Lesson 45 - _|</title>
+    <newCharacters>_|</newCharacters>
+    <text>781 Shorts 813 Platforms! 298 | 948 "specialties 483
+exterior 28 Mighty} 611 | 184 Glenn 651 = 841 Trains 532 |
+555 surprised 656 _ 827 Lewis 777 | 202 photos 255 _ 719
+(Saskatchewan 774 jon 498 school; 104 | 513 engagement 851
+Skype" 804 _ 989 Wool 861 | 791 Extremely 071 _ 079 wb 57
+Doc] 455 _ 38 Harvard 791 debian. 605 _ 868 Proxy 742 _ 226
+highways 257 _ 852 [Mix 277 constitutional 360 _ 423 pushed
+666 examples: 998 _ 841 Client 147 - 840 Gulf 016 _ 61
+Powerful 288 _ 199 Achieve 706 Freebsd; 035 _ 516 principal
+235 alabama? 740 _ 338 a 017 | 464 athens 824 + 536 Refugees
+895 | 274 subcommittee 424 Matter! 342 Tracks! 168 Pulling`
+798 $ 5 prohibited 688 _ 947 Economy 425 ec; 256 | 441
+Registry 837 / 974 Microwave 987 | 009 portions 442 | 36
+Appear 297 | 760 Pentium 415 _ 764 uc 632 | 026 Already 752
+| 484 autumn 728 \ 162 december 564 | 052 Lectures 266 ^ 855
+law 794 _ 027 uploaded 758 ~ 212 Everybody 046 | 75 Denial
+865 _ 594 Boxes 792 | 131 Ny 874 chicken' 259 | 666 (Minutes
+10</text>
+    </lesson>
+    <lesson>
+    <id>{9a6dcc57-f208-4382-bece-c52d9dcb3c60}</id>
+    <title>Lesson 46 - &lt;></title>
+    <newCharacters>&lt;></newCharacters>
+    <text>017 Also 485 ^ 154 le 48 > 899 streaming 102 &lt; 643 Genre 96
+&lt; 905 Fiji 738 > 394 Passion 541 &lt; 711 Toshiba 757 > 334
+sure 794 > 588 Combine 214 dutch` 025 > 570 Cardiff 953 ~
+128 paragraph 54 > 178 stars 738 > 416 error 842 > 734
+displaying 399 > 219 Elegant 51 Nissan; 942 lawn: 728 &lt; 433
+Similar 823 &lt; 120 [goal 528 Are 546 &lt; 590 silver 528 > 139
+Forecasts 933 #rows. 80 Directed 718 > 49 Jan 868 > 191
+seeker 24 &lt; 300 vaccine 000 &lt; 856 Operational 82 Amanda? 209
+Photographer' 091 Road" 558 + 215 example 006 > 798 Leaders
+443 &lt; 881 Facilities 659 > 467 teddy 39 * 475 Intro 351 &lt;
+456 Teens 916 > 084 Graduate 325 &lt; 218 Toolbox 859 > 272
+suddenly 880 &lt; 976 Prefers 003 &lt; 223 stockings 176 &lt; 222
+Cameroon 768 mayor, 488 Brutal] 361 > 829 rules 699 > 122
+Advancement 81 towns} 772 &lt; 902 broadband 034 &lt; 50 Screw 063
+veterinary" 674 > 495 ruled 887 &lt; 525 sagem 228 _ 913 Okay
+489 Mt; 387 > 139 Ian 29 &lt; 450 Cloth 635 &lt; 729 iran 099 &lt;
+787 extensions 597 > 701 were 6 > 364 zero 692 \ 502
+translations</text>
+    </lesson>
+</lessons>
+</course>

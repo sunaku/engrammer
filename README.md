@@ -92,6 +92,15 @@ You can [download a pre-built installation package](
 
 3. Pick the `type-fu.com/engrammer.tfl` file from your copy of this repository.
 
+## KTouch setup
+
+1. Launch KTouch.
+
+2. Burger menu > Course and Keyboard Layout Editor.
+
+3. Import the [ktouch/ktouch-lessons-1.xml](ktouch/ktouch-lessons-1.xml), [ktouch/ktouch-lessons-2.xml](ktouch/ktouch-lessons-2.xml), and/or
+   [ktouch/ktouch-lessons-3.xml](ktouch/ktouch-lessons-3.xml) files.
+
 ## License
 
 Released under the same terms as [Arno's Engram]:
