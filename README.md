@@ -92,6 +92,9 @@ You can [download a pre-built installation package](
 
 3. Pick the `type-fu.com/engrammer.tfl` file from your copy of this repository.
 
+# Issues
+Type-Fu likes to translate keycodes into the target layout, so it may not work as expected (Shows wrong keys are pressed). If so, try switching to QWERTY mode (Magic+6) to avoid double translation.
+
 ## License
 
 Released under the same terms as [Arno's Engram]:
